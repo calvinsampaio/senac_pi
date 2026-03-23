@@ -2,7 +2,7 @@
 
 ## Integrantes
 - Calvin Klein Sampaio Batista
-- ????????????????????????????
+- Lucas Ribeiro Nascimento
 
 # Dataset
 ‘Brazil Dengue Dataset (SINAN 2000–2025)’: https://www.kaggle.com/datasets/gallo33henrique/dengue-no-brasil-sinan-20002025
@@ -25,7 +25,7 @@ Primeira etapa:
 - Exploração inicial e entendimento da estrutura do dataset; 
 - Definição das ferramentas e arquitetura do projeto.
 
-2. Processo de ETL: [Integrante: ????????????????????????????]
+2. Processo de ETL: [Integrante: Lucas Ribeiro Nascimento]
 - Extração: leitura e validação inicial dos dados; 
 - Transformação: limpeza, remoção de duplicidades, padronização e ajuste de tipos; 
 - Carga: geração de uma base inicial tratada para uso nas próximas etapas.
@@ -37,11 +37,11 @@ Segunda etapa:
 - Tratamento de valores nulos e criação de novas variáveis (ano, mês, indicadores); 
 - Agregações e preparação final dos dados.
 
-2. Armazenamento: [Integrante: ????????????????????????????]
+2. Armazenamento: [Integrante: Lucas Ribeiro Nascimento]
 - Modelagem e criação de uma base estruturada (ex: SQLite/PostgreSQL); 
 - Inserção e validação dos dados tratados.
 
-3. Dashboard com Streamlit: [Integrante: Calvin Klein Sampaio Batista e ????????????????????????????]
+3. Dashboard com Streamlit: [Integrante: Calvin Klein Sampaio Batista e Lucas Ribeiro Nascimento]
 - Desenvolvimento da aplicação interativa; 
 - Criação de gráficos, KPIs e filtros; 
 - Integração com a base de dados; 
