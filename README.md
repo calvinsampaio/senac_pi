@@ -4,7 +4,7 @@
 - Calvin Klein Sampaio Batista
 - Lucas Ribeiro Nascimento
 
-# Dataset
+## Dataset
 ‘Brazil Dengue Dataset (SINAN 2000–2025)’: https://www.kaggle.com/datasets/gallo33henrique/dengue-no-brasil-sinan-20002025
 
 ## Contexto
