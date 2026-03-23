@@ -8,8 +8,7 @@
 ‘Brazil Dengue Dataset (SINAN 2000–2025)’: https://www.kaggle.com/datasets/gallo33henrique/dengue-no-brasil-sinan-20002025
 
 ## Contexto
-O conjunto de dados “Brazil Dengue Dataset (SINAN 2000–2025)” agrega registros de ocorrências de dengue no território brasileiro por mais de vinte anos, provenientes do sistema oficial de vigilância epidemiológica do Ministério da Saúde. Tais informações são constantemente atualizadas e contemplam registros pormenorizados conforme período, município e aspectos dos acometimentos.
-A dengue constitui um desafio recorrente para a saúde coletiva no país, apresentando acentuada oscilação conforme a estação do ano e a região. A exploração dessas informações possibilita identificar perfis epidemiológicos e subsidiar estratégias de controle.
+O conjunto de dados “Brazil Dengue Dataset (SINAN 2000–2025)” agrega registros de ocorrências de dengue no território brasileiro por mais de vinte anos, provenientes do sistema oficial de vigilância epidemiológica do Ministério da Saúde. Tais informações são constantemente atualizadas e contemplam registros pormenorizados conforme período, município e aspectos dos acometimentos. A dengue constitui um desafio recorrente para a saúde coletiva no país, apresentando acentuada oscilação conforme a estação do ano e a região. A exploração dessas informações possibilita identificar perfis epidemiológicos e subsidiar estratégias de controle.
 
 ## Objetivo
 - Identificar tendências temporais (crescimento, sazonalidade, surtos);
@@ -25,7 +24,7 @@ Primeira etapa:
 - Exploração inicial e entendimento da estrutura do dataset; 
 - Definição das ferramentas e arquitetura do projeto.
 
-2. Processo de ETL: [Integrante: Lucas Ribeiro Nascimento]
+2. Processo de ETL [Integrante: Lucas Ribeiro Nascimento]
 - Extração: leitura e validação inicial dos dados; 
 - Transformação: limpeza, remoção de duplicidades, padronização e ajuste de tipos; 
 - Carga: geração de uma base inicial tratada para uso nas próximas etapas.
@@ -37,11 +36,11 @@ Segunda etapa:
 - Tratamento de valores nulos e criação de novas variáveis (ano, mês, indicadores); 
 - Agregações e preparação final dos dados.
 
-2. Armazenamento: [Integrante: Lucas Ribeiro Nascimento]
+2. Armazenamento [Integrante: Lucas Ribeiro Nascimento]
 - Modelagem e criação de uma base estruturada (ex: SQLite/PostgreSQL); 
 - Inserção e validação dos dados tratados.
 
-3. Dashboard com Streamlit: [Integrantes: Calvin Klein Sampaio Batista e Lucas Ribeiro Nascimento]
+3. Dashboard com Streamlit [Integrantes: Calvin Klein Sampaio Batista e Lucas Ribeiro Nascimento]
 - Desenvolvimento da aplicação interativa; 
 - Criação de gráficos, KPIs e filtros; 
 - Integração com a base de dados; 
