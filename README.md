@@ -98,8 +98,8 @@ Indicadores para Vigilância Epidemiológica
 - Gráfico de dispersão: relação entre variáveis (ex: idade vs gravidade)
 - Linha com destaque de picos (detecção de surtos)
 
-5. Interatividade Essencial no Dashboard
-Filtros por:
+Interatividade Essencial no Dashboard
+1. Filtros por:
 - Ano
 - Estado / Região
 - Faixa etária
