@@ -2,7 +2,10 @@
 
 ## Integrantes
 - Calvin Klein Sampaio Batista
+- Giovanna Souza da Silva
+- Isabelly Lemos Vaz Pereira
 - Lucas Ribeiro Nascimento
+- Renan dos Reis Fernandes
 
 ## Dataset
 ‘Brazil Dengue Dataset (SINAN 2000–2025)’: https://www.kaggle.com/datasets/gallo33henrique/dengue-no-brasil-sinan-20002025
@@ -19,28 +22,28 @@ O conjunto de dados “Brazil Dengue Dataset (SINAN 2000–2025)” agrega regis
 ## Planejamento geral
 Primeira etapa:
 
-1. Planejamento e Implementação do ETL [Integrante: Calvin Klein Sampaio Batista]
+1. Planejamento e Implementação do ETL [Integrantes: Calvin e Giovanna]
 - Definição dos objetivos da análise; 
 - Exploração inicial e entendimento da estrutura do dataset; 
 - Definição das ferramentas e arquitetura do projeto.
 
-2. Processo de ETL [Integrante: Lucas Ribeiro Nascimento]
+2. Processo de ETL [Integrantes: Isabelly, Lucas e Renan]
 - Extração: leitura e validação inicial dos dados; 
 - Transformação: limpeza, remoção de duplicidades, padronização e ajuste de tipos; 
 - Carga: geração de uma base inicial tratada para uso nas próximas etapas.
 
 Segunda etapa:
 
-1. Tratamento, Armazenamento e Desenvolvimento do Dashboard [Integrante: Calvin Klein Sampaio Batista]
+1. Tratamento, Armazenamento e Desenvolvimento do Dashboard [Integrantes: Isabelly, Lucas e Renan]
 - Uso da biblioteca Pandas para análise exploratória e transformações adicionais; 
 - Tratamento de valores nulos e criação de novas variáveis (ano, mês, indicadores); 
 - Agregações e preparação final dos dados.
 
-2. Armazenamento [Integrante: Lucas Ribeiro Nascimento]
+2. Armazenamento [Integrantes: Calvin e Giovanna]
 - Modelagem e criação de uma base estruturada (ex: SQLite/PostgreSQL); 
 - Inserção e validação dos dados tratados.
 
-3. Dashboard com Streamlit [Integrantes: Calvin Klein Sampaio Batista e Lucas Ribeiro Nascimento]
+3. Dashboard com Streamlit [Integrantes: todos]
 - Desenvolvimento da aplicação interativa; 
 - Criação de gráficos, KPIs e filtros; 
 - Integração com a base de dados; 
