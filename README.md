@@ -6,7 +6,7 @@
 
 # Dataset
 ‘Brazil Dengue Dataset (SINAN 2000–2025)’
-https://www.kaggle.com/datasets/gallo33henrique/dengue-no-brasil-sinan-20002025
+:https://www.kaggle.com/datasets/gallo33henrique/dengue-no-brasil-sinan-20002025
 
 ## Contexto
 O conjunto de dados “Brazil Dengue Dataset (SINAN 2000–2025)” agrega registros de ocorrências de dengue no território brasileiro por mais de vinte anos, provenientes do sistema oficial de vigilância epidemiológica do Ministério da Saúde. Tais informações são constantemente atualizadas e contemplam registros pormenorizados conforme período, município e aspectos dos acometimentos.
