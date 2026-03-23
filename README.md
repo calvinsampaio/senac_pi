@@ -48,51 +48,51 @@ Segunda etapa:
 - Publicação e validação final do dashboard.
 
 ## Planejamento do Dashboard
-1. Tendências Temporais (crescimento, sazonalidade, surtos)
-Métricas (KPIs):
+Tendências Temporais (crescimento, sazonalidade, surtos)
+1. Métricas (KPIs):
 - Total de casos ao longo do tempo
 - Casos no último ano/mês
 - Taxa de crescimento (%) período a período
 - Média mensal de casos
 - Pico máximo de casos (maior surto registrado)
-Visualizações:
+2. Visualizações:
 - Gráfico de linha: evolução de casos por ano e por mês
 - Gráfico de linha com média móvel (tendência)
 - Heatmap: casos por mês vs ano (sazonalidade)
 - Gráfico de barras: comparação anual de casos
 
-2. Distribuição Geográfica dos Casos
-Métricas (KPIs):
+Distribuição Geográfica dos Casos
+1. Métricas (KPIs):
 - Total de casos por estado
 - Top 5 estados com mais casos
 - Taxa de incidência por região (se houver população)
 - Participação percentual por estado
-Visualizações:
+2. Visualizações:
 - Mapa coroplético do Brasil (casos por estado)
 - Gráfico de barras: ranking de estados
 - Gráfico de barras empilhadas: casos por região
 - Tabela interativa com estados e indicadores
 
-3. Perfil dos Pacientes (idade, sexo, evolução)
-Métricas (KPIs):
+Perfil dos Pacientes (idade, sexo, evolução)
+1. Métricas (KPIs):
 - Distribuição percentual por sexo
 - Idade média dos pacientes
 - Faixa etária com maior incidência
 - Taxa de óbitos (%)
 - Taxa de cura (%)
-Visualizações:
+2. Visualizações:
 - Gráfico de barras: casos por faixa etária
 - Gráfico de pizza ou barras: distribuição por sexo
 - Gráfico de barras empilhadas: evolução dos casos (cura, óbito, etc.)
 - Histograma: distribuição de idade
 
-4. Indicadores para Vigilância Epidemiológica
-Métricas (KPIs):
+Indicadores para Vigilância Epidemiológica
+1. Métricas (KPIs):
 - Tempo médio entre início dos sintomas e notificação
 - Proporção de casos graves
 - Taxa de letalidade
 - Número de surtos identificados (picos anormais)
-Visualizações:
+2. Visualizações:
 - Boxplot: tempo entre sintomas e notificação
 - Gráfico de linha: evolução de casos graves ao longo do tempo
 - Gráfico de dispersão: relação entre variáveis (ex: idade vs gravidade)
@@ -106,5 +106,3 @@ Filtros por:
 - Sexo
 - Drill-down (ex: Brasil → Estado → Município)
 - Seleção de período (range de datas)
-
-
