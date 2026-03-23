@@ -41,7 +41,7 @@ Segunda etapa:
 - Modelagem e criação de uma base estruturada (ex: SQLite/PostgreSQL); 
 - Inserção e validação dos dados tratados.
 
-3. Dashboard com Streamlit: [Integrante: Calvin Klein Sampaio Batista e Lucas Ribeiro Nascimento]
+3. Dashboard com Streamlit: [Integrantes: Calvin Klein Sampaio Batista e Lucas Ribeiro Nascimento]
 - Desenvolvimento da aplicação interativa; 
 - Criação de gráficos, KPIs e filtros; 
 - Integração com a base de dados; 
