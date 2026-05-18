@@ -1,0 +1,502 @@
+  SINAN — Casos de Dengue  |  Brasil 2000–2024  (Dados Fictícios para Análise);;;;;;;;;;;;;;;
+ID_CASO;DT_NOTIFIC;DT_SIN_PRI;ANO;MES;SG_UF_NOT;ID_MUNICIP;BAIRRO;CLASSI_FIN;EVOLUCAO;SOROTIPO;TIPO_NOTIF;HOSPITALIZADO;DIAS_ATE_NOTIF;CASO_GRAVE;OBITO
+C680402;06/05/2012;03/05/2012;2012;5;MT;Cuiabá;Centro;Dengue clássico;Cura;Não identificado;Individual;Não;3;Não;Não
+C808631;17/06/2024;11/06/2024;2024;6;PA;Ananindeua;Residencial;Dengue clássico;Óbito;DENV-3;Individual;Não;6;Não;Sim
+C041902;20/02/2016;07/02/2016;2016;2;RJ;Duque de Caxias;Jardim América;Dengue clássico;Ignorado;Não identificado;Surto;Não;13;Não;Não
+C988348;13/02/2003;13/02/2003;2003;2;AM;Parintins;Residencial;Descartado;Cura;DENV-2;Surto;Não;0;Não;Não
+C171396;03/01/2012;23/12/2011;2012;1;PE;Caruaru;Parque Industrial;Descartado;Cura;Não identificado;Individual;Não;11;Não;Não
+C095724;08/07/2002;05/07/2002;2002;7;MT;Rondonópolis;Baixada;Dengue clássico;Cura;Não identificado;Surto;Não;3;Não;Não
+C258329;03/02/2011;23/01/2011;2011;2;MG;Contagem;Vila Nova;Dengue grave;Em tratamento;Não identificado;Surto;Sim;11;Sim;Não
+C403959;03/12/2004;01/12/2004;2004;12;RJ;Rio de Janeiro;Baixada;Descartado;Cura;DENV-1;Individual;Não;2;Não;Não
+C449825;01/01/2012;20/12/2011;2012;1;MT;Tangará da Serra;Alto da Serra;Descartado;Cura;DENV-2;Individual;Não;12;Não;Não
+C199954;18/10/2022;09/10/2022;2022;10;SC;Blumenau;Baixada;Dengue clássico;Cura;DENV-1;Surto;Não;9;Não;Não
+C040771;10/08/2002;07/08/2002;2002;8;RS;Pelotas;Boa Vista;Dengue grave;Cura;DENV-4;Individual;Sim;3;Sim;Não
+C736384;27/12/2018;24/12/2018;2018;12;BA;Itabuna;Baixada;Dengue grave;Cura;DENV-2;Individual;Sim;3;Sim;Não
+C070003;08/11/2024;05/11/2024;2024;11;RJ;Nova Iguaçu;Centro;Dengue grave;Cura;Não identificado;Individual;Sim;3;Sim;Não
+C244063;11/03/2024;09/03/2024;2024;3;BA;Camaçari;Boa Vista;Descartado;Ignorado;DENV-4;Surto;Não;2;Não;Não
+C811511;31/05/2004;31/05/2004;2004;5;SC;Florianópolis;Parque Industrial;Dengue c/ sinais de alarme;Cura;DENV-4;Individual;Sim;0;Sim;Não
+C998142;08/09/2024;07/09/2024;2024;9;SC;Florianópolis;Vila Real;Dengue clássico;Em tratamento;DENV-4;Individual;Não;1;Não;Não
+C499571;10/07/2017;06/07/2017;2017;7;MG;Juiz de Fora;Centro;Dengue c/ sinais de alarme;Cura;DENV-3;Individual;Sim;4;Sim;Não
+C558190;27/04/2024;27/04/2024;2024;4;SP;Ribeirão Preto;Residencial;Descartado;Cura;DENV-2;Individual;Sim;0;Não;Não
+C564559;26/07/2010;20/07/2010;2010;7;AM;Manaus;Parque Industrial;Dengue clássico;Ignorado;DENV-2;Surto;Não;6;Não;Não
+C990650;24/11/2005;14/11/2005;2005;11;ES;Serra;Jardim Europa;Descartado;Cura;Não identificado;Individual;Não;10;Não;Não
+C187696;11/09/2015;28/08/2015;2015;9;PA;Santarém;Vila Nova;Dengue clássico;Cura;DENV-1;Surto;Não;14;Não;Não
+C122368;13/01/2006;09/01/2006;2006;1;RS;Porto Alegre;Marginal;Dengue clássico;Cura;Não identificado;Surto;Não;4;Não;Não
+C762754;13/01/2019;31/12/2018;2019;1;BA;Salvador;Jardim América;Dengue clássico;Cura;DENV-1;Individual;Sim;13;Não;Não
+C403990;26/08/2001;13/08/2001;2001;8;RJ;Niterói;Planalto;Dengue clássico;Ignorado;DENV-3;Individual;Não;13;Não;Não
+C979217;16/08/2004;11/08/2004;2004;8;MT;Várzea Grande;Parque Industrial;Dengue grave;Cura;DENV-2;Surto;Sim;5;Sim;Não
+C271882;07/12/2014;25/11/2014;2014;12;SP;Campinas;Residencial;Dengue c/ sinais de alarme;Cura;DENV-4;Surto;Sim;12;Sim;Não
+C892639;01/02/2001;22/01/2001;2001;2;BA;Feira de Santana;Boa Vista;Dengue clássico;Cura;Não identificado;Surto;Não;10;Não;Não
+C053749;21/09/2011;19/09/2011;2011;9;SP;São Paulo;Marginal;Dengue grave;Cura;DENV-1;Surto;Sim;2;Sim;Não
+C957763;05/06/2011;05/06/2011;2011;6;RS;Santa Maria;Boa Vista;Descartado;Cura;DENV-1;Surto;Sim;0;Não;Não
+C442149;14/08/2005;03/08/2005;2005;8;AM;Itacoatiara;Parque Industrial;Dengue clássico;Em tratamento;Não identificado;Individual;Não;11;Não;Não
+C456442;28/03/2018;20/03/2018;2018;3;AM;Coari;Santa Cruz;Dengue clássico;Cura;DENV-4;Individual;Não;8;Não;Não
+C876210;24/02/2023;14/02/2023;2023;2;MT;Cuiabá;Santa Cruz;Descartado;Ignorado;DENV-2;Surto;Não;10;Não;Não
+C642607;18/08/2018;04/08/2018;2018;8;AM;Manaus;Vila Real;Descartado;Ignorado;DENV-1;Surto;Não;14;Não;Não
+C848695;03/04/2023;27/03/2023;2023;4;ES;Vila Velha;Alto da Serra;Dengue clássico;Em tratamento;DENV-4;Surto;Não;7;Não;Não
+C226756;03/03/2007;20/02/2007;2007;3;SC;Chapecó;Vila Real;Dengue c/ sinais de alarme;Óbito;DENV-3;Surto;Sim;11;Sim;Sim
+C131243;14/03/2012;09/03/2012;2012;3;RJ;Nova Iguaçu;Boa Vista;Dengue clássico;Em tratamento;DENV-4;Surto;Sim;5;Não;Não
+C873037;11/11/2018;05/11/2018;2018;11;SP;Campinas;Baixada;Dengue grave;Cura;DENV-4;Individual;Sim;6;Sim;Não
+C641416;27/07/2019;20/07/2019;2019;7;MA;Imperatriz;Santa Cruz;Dengue clássico;Cura;DENV-1;Surto;Não;7;Não;Não
+C403237;21/03/2001;20/03/2001;2001;3;AM;Coari;Parque Industrial;Descartado;Cura;DENV-4;Surto;Não;1;Não;Não
+C920900;10/09/2003;03/09/2003;2003;9;PR;Ponta Grossa;Santa Cruz;Dengue clássico;Em tratamento;DENV-2;Individual;Sim;7;Não;Não
+C526716;04/11/2006;01/11/2006;2006;11;SC;Florianópolis;Horizonte;Dengue clássico;Óbito;Não identificado;Individual;Não;3;Não;Sim
+C939158;15/11/2004;06/11/2004;2004;11;PR;Londrina;Santa Cruz;Dengue clássico;Cura;DENV-2;Individual;Não;9;Não;Não
+C343538;18/06/2005;06/06/2005;2005;6;GO;Anápolis;Baixada;Dengue grave;Cura;DENV-4;Individual;Sim;12;Sim;Não
+C566974;26/08/2020;15/08/2020;2020;8;CE;Juazeiro do Norte;Parque Industrial;Dengue clássico;Cura;Não identificado;Surto;Não;11;Não;Não
+C756343;24/11/2003;20/11/2003;2003;11;PE;Caruaru;Baixada;Dengue c/ sinais de alarme;Cura;DENV-4;Individual;Sim;4;Sim;Não
+C551245;31/07/2012;17/07/2012;2012;7;PE;Olinda;São João;Dengue grave;Cura;DENV-2;Surto;Sim;14;Sim;Não
+C263539;10/10/2000;09/10/2000;2000;10;MT;Sinop;Vila Real;Dengue clássico;Cura;Não identificado;Surto;Não;1;Não;Não
+C379617;06/10/2013;02/10/2013;2013;10;PE;Petrolina;Santa Cruz;Dengue clássico;Cura;DENV-3;Surto;Não;4;Não;Não
+C529561;21/03/2010;16/03/2010;2010;3;RJ;Niterói;Santa Cruz;Dengue clássico;Cura;DENV-4;Individual;Sim;5;Não;Não
+C392810;09/10/2012;02/10/2012;2012;10;SC;Florianópolis;Horizonte;Dengue c/ sinais de alarme;Óbito;DENV-4;Individual;Sim;7;Sim;Sim
+C025456;22/09/2006;10/09/2006;2006;9;AM;Manaus;Vila Nova;Dengue grave;Cura;Não identificado;Surto;Sim;12;Sim;Não
+C090762;31/03/2019;27/03/2019;2019;3;MA;Timon;Santa Cruz;Dengue grave;Ignorado;DENV-1;Individual;Sim;4;Sim;Não
+C522774;16/05/2003;14/05/2003;2003;5;ES;Vila Velha;Planalto;Dengue clássico;Cura;Não identificado;Individual;Não;2;Não;Não
+C121075;21/11/2008;15/11/2008;2008;11;RS;Pelotas;Alto da Serra;Dengue clássico;Em tratamento;Não identificado;Surto;Não;6;Não;Não
+C540043;02/09/2013;22/08/2013;2013;9;MA;São Luís;Vila Real;Dengue c/ sinais de alarme;Cura;DENV-3;Individual;Sim;11;Sim;Não
+C715429;17/12/2000;05/12/2000;2000;12;RJ;Niterói;Parque Industrial;Descartado;Cura;DENV-4;Surto;Não;12;Não;Não
+C362985;01/05/2018;26/04/2018;2018;5;RJ;Duque de Caxias;São João;Dengue clássico;Cura;DENV-4;Individual;Não;5;Não;Não
+C808405;26/03/2005;14/03/2005;2005;3;PE;Olinda;São João;Dengue c/ sinais de alarme;Em tratamento;Não identificado;Surto;Sim;12;Sim;Não
+C284067;28/04/2002;25/04/2002;2002;4;MT;Sinop;Alto da Serra;Dengue clássico;Em tratamento;Não identificado;Individual;Não;3;Não;Não
+C941847;15/10/2024;09/10/2024;2024;10;BA;Itabuna;Centro;Dengue clássico;Cura;Não identificado;Surto;Não;6;Não;Não
+C395882;14/12/2010;07/12/2010;2010;12;CE;Maracanaú;Vila Real;Dengue grave;Cura;DENV-4;Surto;Sim;7;Sim;Não
+C568443;16/02/2000;12/02/2000;2000;2;RS;Santa Maria;Santa Cruz;Descartado;Cura;Não identificado;Surto;Não;4;Não;Não
+C843493;28/06/2008;17/06/2008;2008;6;MA;Caxias;Baixada;Dengue clássico;Ignorado;Não identificado;Individual;Não;11;Não;Não
+C454746;22/07/2022;13/07/2022;2022;7;MA;São Luís;Vila Nova;Dengue clássico;Cura;DENV-2;Individual;Não;9;Não;Não
+C833778;09/11/2017;30/10/2017;2017;11;MA;Caxias;São João;Dengue clássico;Cura;DENV-1;Individual;Não;10;Não;Não
+C690723;26/01/2004;20/01/2004;2004;1;ES;Serra;Boa Vista;Dengue clássico;Cura;DENV-2;Individual;Não;6;Não;Não
+C364526;31/01/2008;29/01/2008;2008;1;PA;Marabá;Horizonte;Dengue clássico;Cura;DENV-4;Surto;Não;2;Não;Não
+C435642;27/11/2020;13/11/2020;2020;11;MT;Cuiabá;Marginal;Dengue clássico;Em tratamento;DENV-3;Individual;Não;14;Não;Não
+C592962;28/08/2010;22/08/2010;2010;8;CE;Maracanaú;Jardim América;Dengue grave;Cura;Não identificado;Individual;Sim;6;Sim;Não
+C366676;26/04/2022;13/04/2022;2022;4;RS;Santa Maria;Residencial;Dengue clássico;Cura;DENV-2;Individual;Não;13;Não;Não
+C702711;10/10/2019;10/10/2019;2019;10;RS;Porto Alegre;Santa Cruz;Dengue grave;Cura;Não identificado;Surto;Sim;0;Sim;Não
+C992884;05/04/2012;23/03/2012;2012;4;PA;Castanhal;Marginal;Dengue clássico;Cura;DENV-1;Individual;Não;13;Não;Não
+C032137;11/11/2017;29/10/2017;2017;11;PR;Londrina;Baixada;Dengue grave;Cura;DENV-3;Surto;Sim;13;Sim;Não
+C592089;04/07/2010;27/06/2010;2010;7;SC;Blumenau;Jardim América;Dengue clássico;Ignorado;DENV-3;Surto;Não;7;Não;Não
+C081467;05/09/2001;01/09/2001;2001;9;RJ;Niterói;Centro;Dengue c/ sinais de alarme;Cura;Não identificado;Surto;Sim;4;Sim;Não
+C926242;21/08/2018;11/08/2018;2018;8;AM;Parintins;Marginal;Dengue clássico;Óbito;DENV-3;Individual;Não;10;Não;Sim
+C118466;02/02/2016;02/02/2016;2016;2;MT;Rondonópolis;Planalto;Dengue c/ sinais de alarme;Cura;Não identificado;Individual;Sim;0;Sim;Não
+C072283;06/12/2010;04/12/2010;2010;12;SP;Santos;São João;Dengue grave;Cura;DENV-2;Individual;Sim;2;Sim;Não
+C007231;29/03/2024;25/03/2024;2024;3;BA;Feira de Santana;Vila Nova;Dengue clássico;Cura;DENV-1;Individual;Não;4;Não;Não
+C354267;16/02/2005;05/02/2005;2005;2;GO;Rio Verde;Planalto;Dengue clássico;Óbito;Não identificado;Surto;Não;11;Não;Sim
+C649006;09/07/2021;26/06/2021;2021;7;MA;São Luís;Centro;Dengue c/ sinais de alarme;Cura;DENV-1;Individual;Sim;13;Sim;Não
+C546078;17/08/2024;06/08/2024;2024;8;BA;Itabuna;Parque Industrial;Dengue clássico;Cura;Não identificado;Individual;Não;11;Não;Não
+C733296;07/04/2010;01/04/2010;2010;4;CE;Maracanaú;Marginal;Dengue clássico;Óbito;DENV-4;Individual;Não;6;Não;Sim
+C555313;17/05/2019;16/05/2019;2019;5;RJ;Rio de Janeiro;Jardim América;Descartado;Cura;Não identificado;Surto;Não;1;Não;Não
+C148351;11/01/2014;06/01/2014;2014;1;SC;Florianópolis;Santa Cruz;Dengue clássico;Ignorado;DENV-3;Individual;Não;5;Não;Não
+C027931;21/12/2024;21/12/2024;2024;12;PR;Ponta Grossa;Baixada;Dengue grave;Cura;DENV-2;Surto;Sim;0;Sim;Não
+C433775;18/05/2001;17/05/2001;2001;5;RJ;Niterói;Residencial;Descartado;Em tratamento;DENV-1;Individual;Não;1;Não;Não
+C464253;05/04/2002;26/03/2002;2002;4;MG;Uberlândia;Alto da Serra;Dengue clássico;Cura;DENV-1;Surto;Não;10;Não;Não
+C902977;31/08/2023;21/08/2023;2023;8;MT;Tangará da Serra;Vila Real;Dengue clássico;Cura;DENV-3;Surto;Não;10;Não;Não
+C256337;28/04/2019;26/04/2019;2019;4;RJ;Rio de Janeiro;Vila Real;Dengue clássico;Cura;DENV-4;Individual;Não;2;Não;Não
+C462491;25/01/2014;16/01/2014;2014;1;MA;São Luís;Baixada;Dengue c/ sinais de alarme;Ignorado;Não identificado;Surto;Sim;9;Sim;Não
+C408727;17/08/2019;04/08/2019;2019;8;SC;Blumenau;Jardim América;Dengue clássico;Cura;DENV-1;Individual;Não;13;Não;Não
+C116761;08/09/2015;03/09/2015;2015;9;PA;Castanhal;Boa Vista;Descartado;Cura;Não identificado;Surto;Não;5;Não;Não
+C393446;29/02/2020;19/02/2020;2020;2;MA;Codó;Alto da Serra;Dengue grave;Ignorado;DENV-3;Individual;Sim;10;Sim;Não
+C080886;10/12/2013;03/12/2013;2013;12;PE;Paulista;Jardim América;Dengue c/ sinais de alarme;Cura;Não identificado;Surto;Sim;7;Sim;Não
+C341018;10/11/2001;03/11/2001;2001;11;MA;Codó;Planalto;Dengue grave;Cura;DENV-3;Individual;Sim;7;Sim;Não
+C563937;22/02/2011;11/02/2011;2011;2;PA;Ananindeua;Centro;Dengue c/ sinais de alarme;Óbito;Não identificado;Individual;Sim;11;Sim;Sim
+C276983;16/10/2014;15/10/2014;2014;10;PR;Maringá;Jardim América;Dengue grave;Cura;Não identificado;Individual;Sim;1;Sim;Não
+C337868;02/08/2017;31/07/2017;2017;8;RS;Pelotas;Santa Cruz;Dengue grave;Cura;Não identificado;Individual;Sim;2;Sim;Não
+C294210;25/03/2016;25/03/2016;2016;3;MT;Sinop;Planalto;Dengue clássico;Cura;DENV-1;Individual;Não;0;Não;Não
+C187814;26/11/2005;17/11/2005;2005;11;MT;Rondonópolis;Marginal;Dengue c/ sinais de alarme;Cura;DENV-4;Surto;Sim;9;Sim;Não
+C297916;24/10/2012;12/10/2012;2012;10;MT;Várzea Grande;Vila Real;Descartado;Óbito;Não identificado;Surto;Não;12;Não;Sim
+C988126;24/02/2017;16/02/2017;2017;2;MA;Caxias;Alto da Serra;Dengue grave;Cura;DENV-3;Individual;Sim;8;Sim;Não
+C914924;08/08/2005;04/08/2005;2005;8;GO;Luziânia;Baixada;Dengue clássico;Cura;DENV-3;Individual;Não;4;Não;Não
+C309867;13/07/2022;08/07/2022;2022;7;CE;Fortaleza;Jardim Europa;Dengue clássico;Cura;DENV-2;Individual;Não;5;Não;Não
+C002857;04/04/2006;23/03/2006;2006;4;BA;Camaçari;Residencial;Descartado;Óbito;Não identificado;Surto;Não;12;Não;Sim
+C741950;06/07/2013;05/07/2013;2013;7;RJ;Nova Iguaçu;Boa Vista;Dengue clássico;Cura;Não identificado;Individual;Não;1;Não;Não
+C246090;03/04/2019;03/04/2019;2019;4;GO;Aparecida de Goiânia;Santa Cruz;Dengue grave;Cura;Não identificado;Individual;Sim;0;Sim;Não
+C026157;14/05/2017;09/05/2017;2017;5;CE;Maracanaú;Centro;Dengue clássico;Cura;DENV-2;Individual;Não;5;Não;Não
+C411790;21/11/2007;08/11/2007;2007;11;PE;Paulista;São João;Descartado;Óbito;DENV-2;Individual;Não;13;Não;Sim
+C840628;22/11/2001;17/11/2001;2001;11;PR;Londrina;Marginal;Dengue clássico;Em tratamento;DENV-1;Surto;Não;5;Não;Não
+C839449;10/07/2016;04/07/2016;2016;7;BA;Salvador;Alto da Serra;Dengue c/ sinais de alarme;Óbito;Não identificado;Surto;Sim;6;Sim;Sim
+C912132;17/01/2019;16/01/2019;2019;1;PR;Curitiba;Residencial;Dengue c/ sinais de alarme;Ignorado;DENV-4;Surto;Sim;1;Sim;Não
+C467064;21/01/2020;21/01/2020;2020;1;MG;Juiz de Fora;São João;Descartado;Cura;Não identificado;Individual;Não;0;Não;Não
+C639014;28/08/2019;28/08/2019;2019;8;SP;Campinas;Baixada;Dengue clássico;Cura;DENV-3;Surto;Não;0;Não;Não
+C290159;13/03/2006;05/03/2006;2006;3;MA;São Luís;Horizonte;Dengue clássico;Cura;DENV-1;Surto;Não;8;Não;Não
+C692101;10/01/2020;07/01/2020;2020;1;PR;Maringá;Residencial;Dengue grave;Cura;Não identificado;Surto;Sim;3;Sim;Não
+C887967;13/08/2015;02/08/2015;2015;8;RJ;Nova Iguaçu;Parque Industrial;Dengue clássico;Em tratamento;Não identificado;Individual;Não;11;Não;Não
+C354918;28/03/2006;25/03/2006;2006;3;RJ;Niterói;Alto da Serra;Dengue c/ sinais de alarme;Cura;DENV-1;Surto;Sim;3;Sim;Não
+C096463;17/06/2018;05/06/2018;2018;6;CE;Maracanaú;Planalto;Dengue c/ sinais de alarme;Ignorado;Não identificado;Individual;Sim;12;Sim;Não
+C319295;05/08/2022;22/07/2022;2022;8;PR;Londrina;Jardim Europa;Dengue clássico;Cura;DENV-3;Individual;Não;14;Não;Não
+C065516;19/09/2024;15/09/2024;2024;9;BA;Feira de Santana;Parque Industrial;Dengue clássico;Cura;Não identificado;Surto;Não;4;Não;Não
+C256085;10/04/2001;09/04/2001;2001;4;SC;Chapecó;Centro;Dengue clássico;Ignorado;Não identificado;Surto;Não;1;Não;Não
+C614431;24/03/2018;20/03/2018;2018;3;MA;Imperatriz;Alto da Serra;Dengue c/ sinais de alarme;Cura;Não identificado;Surto;Sim;4;Sim;Não
+C342202;24/11/2005;12/11/2005;2005;11;GO;Anápolis;Jardim Europa;Dengue clássico;Em tratamento;DENV-4;Surto;Não;12;Não;Não
+C119484;22/09/2014;08/09/2014;2014;9;ES;Vila Velha;Baixada;Dengue grave;Cura;DENV-1;Surto;Sim;14;Sim;Não
+C486458;03/09/2009;25/08/2009;2009;9;PA;Marabá;Boa Vista;Dengue clássico;Cura;DENV-4;Individual;Sim;9;Não;Não
+C005323;09/06/2016;28/05/2016;2016;6;RS;Pelotas;Residencial;Dengue c/ sinais de alarme;Cura;DENV-4;Surto;Sim;12;Sim;Não
+C953164;02/05/2005;30/04/2005;2005;5;SC;Chapecó;Parque Industrial;Dengue clássico;Cura;DENV-1;Individual;Não;2;Não;Não
+C465361;21/12/2014;09/12/2014;2014;12;SP;Campinas;Residencial;Dengue c/ sinais de alarme;Em tratamento;Não identificado;Surto;Sim;12;Sim;Não
+C283695;20/11/2022;12/11/2022;2022;11;AM;Itacoatiara;Planalto;Dengue c/ sinais de alarme;Ignorado;Não identificado;Individual;Sim;8;Sim;Não
+C577382;28/03/2010;17/03/2010;2010;3;AM;Manacapuru;Santa Cruz;Dengue clássico;Ignorado;Não identificado;Individual;Não;11;Não;Não
+C479870;01/02/2014;26/01/2014;2014;2;ES;Vitória;Vila Real;Dengue clássico;Cura;DENV-2;Individual;Não;6;Não;Não
+C945568;24/06/2021;16/06/2021;2021;6;PA;Santarém;Parque Industrial;Dengue c/ sinais de alarme;Cura;Não identificado;Surto;Sim;8;Sim;Não
+C292227;25/01/2011;21/01/2011;2011;1;AM;Manacapuru;Boa Vista;Dengue grave;Cura;DENV-3;Surto;Sim;4;Sim;Não
+C398982;11/04/2012;07/04/2012;2012;4;PE;Paulista;Marginal;Dengue clássico;Ignorado;DENV-3;Individual;Não;4;Não;Não
+C259616;14/07/2011;03/07/2011;2011;7;PE;Petrolina;Parque Industrial;Dengue c/ sinais de alarme;Cura;Não identificado;Individual;Sim;11;Sim;Não
+C471705;30/10/2023;27/10/2023;2023;10;ES;Vitória;Parque Industrial;Descartado;Cura;DENV-2;Surto;Sim;3;Não;Não
+C076278;23/12/2008;11/12/2008;2008;12;MT;Sinop;Vila Real;Dengue clássico;Cura;DENV-1;Individual;Não;12;Não;Não
+C178202;31/08/2001;18/08/2001;2001;8;CE;Caucaia;Marginal;Dengue c/ sinais de alarme;Óbito;Não identificado;Individual;Sim;13;Sim;Sim
+C498411;29/05/2020;19/05/2020;2020;5;RS;Pelotas;Santa Cruz;Dengue grave;Em tratamento;DENV-2;Surto;Sim;10;Sim;Não
+C571888;08/05/2008;08/05/2008;2008;5;MT;Rondonópolis;Residencial;Descartado;Cura;Não identificado;Surto;Não;0;Não;Não
+C222793;13/04/2004;11/04/2004;2004;4;RJ;Duque de Caxias;Parque Industrial;Dengue clássico;Óbito;Não identificado;Individual;Não;2;Não;Sim
+C169876;07/08/2010;07/08/2010;2010;8;BA;Vitória da Conquista;Residencial;Descartado;Cura;Não identificado;Surto;Não;0;Não;Não
+C493797;01/11/2009;30/10/2009;2009;11;PE;Paulista;Boa Vista;Dengue c/ sinais de alarme;Cura;Não identificado;Individual;Sim;2;Sim;Não
+C705055;11/09/2003;03/09/2003;2003;9;PR;Londrina;Parque Industrial;Dengue c/ sinais de alarme;Em tratamento;Não identificado;Individual;Sim;8;Sim;Não
+C484014;12/05/2023;05/05/2023;2023;5;MG;Contagem;Baixada;Dengue clássico;Cura;Não identificado;Individual;Não;7;Não;Não
+C020475;08/11/2013;28/10/2013;2013;11;PA;Marabá;Parque Industrial;Dengue clássico;Cura;DENV-1;Individual;Não;11;Não;Não
+C964938;22/11/2012;16/11/2012;2012;11;RS;Canoas;Centro;Dengue clássico;Cura;DENV-4;Surto;Não;6;Não;Não
+C198794;08/08/2015;07/08/2015;2015;8;RJ;Petrópolis;Vila Nova;Dengue clássico;Em tratamento;Não identificado;Surto;Não;1;Não;Não
+C118706;23/04/2010;20/04/2010;2010;4;PA;Marabá;Baixada;Dengue c/ sinais de alarme;Cura;Não identificado;Individual;Sim;3;Sim;Não
+C707422;20/07/2004;11/07/2004;2004;7;ES;Vila Velha;Jardim América;Dengue clássico;Óbito;DENV-1;Individual;Não;9;Não;Sim
+C289542;30/04/2014;21/04/2014;2014;4;PA;Santarém;Boa Vista;Dengue grave;Cura;Não identificado;Individual;Sim;9;Sim;Não
+C341374;26/03/2022;26/03/2022;2022;3;MT;Sinop;Planalto;Dengue clássico;Cura;DENV-2;Surto;Não;0;Não;Não
+C453230;22/10/2020;08/10/2020;2020;10;SC;Joinville;Alto da Serra;Dengue clássico;Em tratamento;DENV-4;Surto;Não;14;Não;Não
+C681775;17/07/2008;17/07/2008;2008;7;RJ;Petrópolis;Residencial;Dengue clássico;Cura;DENV-4;Individual;Não;0;Não;Não
+C796732;11/09/2000;08/09/2000;2000;9;SC;Blumenau;Santa Cruz;Dengue clássico;Cura;DENV-3;Surto;Não;3;Não;Não
+C409489;16/02/2016;12/02/2016;2016;2;CE;Maracanaú;Planalto;Dengue clássico;Cura;DENV-3;Surto;Não;4;Não;Não
+C954133;15/12/2009;04/12/2009;2009;12;CE;Fortaleza;Horizonte;Dengue clássico;Cura;DENV-2;Surto;Não;11;Não;Não
+C731518;12/12/2021;01/12/2021;2021;12;PA;Santarém;Santa Cruz;Descartado;Óbito;Não identificado;Individual;Não;11;Não;Sim
+C482705;15/05/2003;02/05/2003;2003;5;PA;Belém;Baixada;Descartado;Cura;DENV-3;Individual;Não;13;Não;Não
+C050529;13/09/2021;03/09/2021;2021;9;AM;Coari;Marginal;Dengue c/ sinais de alarme;Cura;DENV-1;Surto;Sim;10;Sim;Não
+C582334;05/05/2004;27/04/2004;2004;5;PR;Londrina;Jardim América;Dengue clássico;Cura;Não identificado;Individual;Não;8;Não;Não
+C350014;23/08/2003;13/08/2003;2003;8;GO;Aparecida de Goiânia;Santa Cruz;Descartado;Cura;DENV-4;Surto;Sim;10;Não;Não
+C884009;24/09/2023;10/09/2023;2023;9;AM;Manaus;Marginal;Dengue clássico;Cura;Não identificado;Individual;Não;14;Não;Não
+C255865;26/04/2009;17/04/2009;2009;4;MG;Contagem;Centro;Dengue clássico;Cura;DENV-4;Individual;Não;9;Não;Não
+C066593;07/07/2015;07/07/2015;2015;7;PR;Curitiba;Planalto;Dengue clássico;Cura;Não identificado;Surto;Não;0;Não;Não
+C466067;31/03/2010;26/03/2010;2010;3;PR;Ponta Grossa;Vila Real;Dengue grave;Cura;Não identificado;Individual;Sim;5;Sim;Não
+C310332;27/01/2017;16/01/2017;2017;1;RJ;Nova Iguaçu;Vila Nova;Descartado;Cura;DENV-2;Individual;Não;11;Não;Não
+C105578;02/01/2025;25/12/2024;2025;1;MG;Juiz de Fora;Vila Real;Dengue grave;Cura;DENV-1;Surto;Sim;8;Sim;Não
+C513134;30/10/2003;19/10/2003;2003;10;CE;Maracanaú;Alto da Serra;Dengue grave;Cura;DENV-1;Individual;Sim;11;Sim;Não
+C265113;19/06/2013;12/06/2013;2013;6;CE;Juazeiro do Norte;Jardim Europa;Dengue clássico;Cura;DENV-4;Surto;Não;7;Não;Não
+C891392;20/10/2014;13/10/2014;2014;10;SC;Chapecó;Jardim Europa;Dengue clássico;Cura;DENV-3;Individual;Não;7;Não;Não
+C831555;18/01/2022;09/01/2022;2022;1;CE;Juazeiro do Norte;Santa Cruz;Dengue clássico;Cura;Não identificado;Individual;Não;9;Não;Não
+C744626;03/06/2009;27/05/2009;2009;6;GO;Rio Verde;Residencial;Dengue clássico;Cura;Não identificado;Surto;Não;7;Não;Não
+C459657;02/03/2020;22/02/2020;2020;3;PR;Ponta Grossa;Jardim América;Dengue c/ sinais de alarme;Ignorado;DENV-3;Individual;Sim;9;Sim;Não
+C963794;06/12/2015;04/12/2015;2015;12;RJ;Niterói;Parque Industrial;Descartado;Ignorado;DENV-1;Individual;Sim;2;Não;Não
+C234661;17/04/2023;09/04/2023;2023;4;BA;Feira de Santana;Planalto;Dengue grave;Ignorado;DENV-1;Surto;Sim;8;Sim;Não
+C375307;08/11/2003;07/11/2003;2003;11;RJ;Nova Iguaçu;Jardim Europa;Descartado;Cura;DENV-4;Surto;Não;1;Não;Não
+C192115;28/02/2005;28/02/2005;2005;2;RJ;Nova Iguaçu;Centro;Dengue clássico;Cura;DENV-4;Individual;Não;0;Não;Não
+C784402;12/04/2008;10/04/2008;2008;4;PR;Ponta Grossa;Parque Industrial;Descartado;Cura;DENV-3;Individual;Não;2;Não;Não
+C164933;02/02/2024;31/01/2024;2024;2;AM;Manaus;Alto da Serra;Dengue clássico;Cura;DENV-4;Individual;Não;2;Não;Não
+C563213;24/07/2020;15/07/2020;2020;7;PE;Olinda;Baixada;Dengue clássico;Cura;DENV-2;Surto;Não;9;Não;Não
+C669541;24/03/2017;18/03/2017;2017;3;CE;Sobral;Vila Nova;Dengue clássico;Óbito;DENV-3;Surto;Não;6;Não;Sim
+C135644;08/02/2016;08/02/2016;2016;2;AM;Manaus;Baixada;Dengue c/ sinais de alarme;Cura;Não identificado;Surto;Sim;0;Sim;Não
+C227574;01/06/2001;20/05/2001;2001;6;MA;Imperatriz;Jardim América;Dengue clássico;Cura;Não identificado;Individual;Sim;12;Não;Não
+C075918;25/05/2024;12/05/2024;2024;5;AM;Manaus;Santa Cruz;Dengue clássico;Em tratamento;DENV-2;Surto;Não;13;Não;Não
+C182768;20/10/2011;15/10/2011;2011;10;SC;Florianópolis;Vila Real;Dengue clássico;Óbito;Não identificado;Surto;Não;5;Não;Sim
+C551925;21/04/2009;08/04/2009;2009;4;MG;Montes Claros;Vila Nova;Dengue clássico;Cura;Não identificado;Individual;Não;13;Não;Não
+C113283;02/09/2002;29/08/2002;2002;9;MG;Juiz de Fora;Marginal;Descartado;Cura;DENV-2;Surto;Não;4;Não;Não
+C768445;11/04/2020;10/04/2020;2020;4;MT;Sinop;Jardim Europa;Descartado;Cura;Não identificado;Individual;Não;1;Não;Não
+C984325;08/02/2016;26/01/2016;2016;2;GO;Rio Verde;Parque Industrial;Dengue clássico;Em tratamento;DENV-2;Surto;Não;13;Não;Não
+C914949;04/03/2002;04/03/2002;2002;3;PR;Maringá;Marginal;Dengue clássico;Óbito;DENV-2;Surto;Sim;0;Não;Sim
+C606774;06/03/2016;02/03/2016;2016;3;MG;Contagem;Jardim América;Dengue clássico;Cura;DENV-1;Individual;Não;4;Não;Não
+C540318;02/07/2003;30/06/2003;2003;7;SP;Campinas;Vila Real;Dengue grave;Cura;Não identificado;Individual;Sim;2;Sim;Não
+C323886;09/03/2017;08/03/2017;2017;3;MA;São Luís;Boa Vista;Descartado;Cura;Não identificado;Individual;Não;1;Não;Não
+C761468;27/05/2000;18/05/2000;2000;5;RJ;Petrópolis;Horizonte;Descartado;Cura;DENV-1;Individual;Não;9;Não;Não
+C726267;28/03/2017;23/03/2017;2017;3;MG;Belo Horizonte;Horizonte;Dengue c/ sinais de alarme;Cura;DENV-3;Individual;Sim;5;Sim;Não
+C720894;01/04/2023;23/03/2023;2023;4;SC;Blumenau;Boa Vista;Dengue grave;Cura;DENV-1;Individual;Sim;9;Sim;Não
+C185367;26/09/2023;12/09/2023;2023;9;MA;Codó;Jardim América;Dengue clássico;Cura;DENV-1;Individual;Não;14;Não;Não
+C327744;08/10/2011;05/10/2011;2011;10;AM;Manaus;Centro;Dengue clássico;Cura;Não identificado;Individual;Não;3;Não;Não
+C368606;26/07/2003;18/07/2003;2003;7;BA;Salvador;Santa Cruz;Dengue clássico;Cura;Não identificado;Individual;Não;8;Não;Não
+C637717;29/06/2019;28/06/2019;2019;6;SP;Campinas;Jardim América;Dengue c/ sinais de alarme;Ignorado;Não identificado;Individual;Sim;1;Sim;Não
+C172870;25/06/2023;17/06/2023;2023;6;MG;Juiz de Fora;São João;Descartado;Cura;DENV-4;Surto;Não;8;Não;Não
+C345321;23/06/2003;16/06/2003;2003;6;PA;Belém;Santa Cruz;Dengue c/ sinais de alarme;Em tratamento;Não identificado;Individual;Sim;7;Sim;Não
+C391908;04/01/2002;22/12/2001;2002;1;ES;Cachoeiro;Centro;Dengue clássico;Cura;Não identificado;Surto;Sim;13;Não;Não
+C035918;16/09/2018;02/09/2018;2018;9;ES;Serra;Boa Vista;Descartado;Cura;DENV-1;Surto;Não;14;Não;Não
+C432772;11/09/2012;30/08/2012;2012;9;RJ;Duque de Caxias;Baixada;Dengue clássico;Cura;DENV-3;Surto;Sim;12;Não;Não
+C423889;19/07/2024;07/07/2024;2024;7;PR;Londrina;Residencial;Dengue clássico;Cura;DENV-1;Surto;Sim;12;Não;Não
+C097098;23/03/2009;15/03/2009;2009;3;SC;Blumenau;Jardim América;Dengue clássico;Cura;Não identificado;Surto;Não;8;Não;Não
+C805492;01/11/2003;23/10/2003;2003;11;GO;Anápolis;Vila Real;Dengue clássico;Em tratamento;DENV-3;Surto;Não;9;Não;Não
+C291711;25/08/2014;20/08/2014;2014;8;RS;Canoas;Residencial;Dengue c/ sinais de alarme;Cura;DENV-4;Surto;Sim;5;Sim;Não
+C211686;20/01/2024;15/01/2024;2024;1;PE;Petrolina;Jardim América;Dengue clássico;Óbito;DENV-1;Individual;Não;5;Não;Sim
+C028198;14/02/2004;03/02/2004;2004;2;SC;Blumenau;Vila Nova;Dengue clássico;Cura;Não identificado;Individual;Não;11;Não;Não
+C918366;10/04/2006;09/04/2006;2006;4;RJ;Duque de Caxias;Jardim América;Dengue clássico;Cura;Não identificado;Surto;Não;1;Não;Não
+C088190;25/11/2002;22/11/2002;2002;11;RS;Porto Alegre;Centro;Descartado;Óbito;Não identificado;Surto;Não;3;Não;Sim
+C212806;04/05/2001;28/04/2001;2001;5;SC;São José;Vila Real;Descartado;Cura;DENV-2;Surto;Não;6;Não;Não
+C118568;20/09/2024;13/09/2024;2024;9;MA;Timon;Marginal;Dengue clássico;Cura;DENV-1;Surto;Não;7;Não;Não
+C953132;16/06/2024;04/06/2024;2024;6;PR;Maringá;Vila Real;Dengue c/ sinais de alarme;Cura;DENV-3;Individual;Sim;12;Sim;Não
+C916289;25/01/2016;13/01/2016;2016;1;PR;Ponta Grossa;Planalto;Dengue grave;Cura;DENV-1;Individual;Sim;12;Sim;Não
+C735735;19/10/2007;17/10/2007;2007;10;AM;Manacapuru;São João;Dengue clássico;Ignorado;DENV-2;Individual;Não;2;Não;Não
+C022509;13/11/2013;11/11/2013;2013;11;SC;São José;Planalto;Dengue c/ sinais de alarme;Cura;DENV-2;Individual;Sim;2;Sim;Não
+C978893;07/07/2014;07/07/2014;2014;7;PE;Caruaru;Marginal;Dengue clássico;Cura;Não identificado;Surto;Não;0;Não;Não
+C464375;20/07/2013;15/07/2013;2013;7;AM;Manaus;São João;Dengue clássico;Cura;Não identificado;Surto;Não;5;Não;Não
+C799399;18/11/2007;12/11/2007;2007;11;ES;Cachoeiro;Baixada;Dengue clássico;Cura;DENV-1;Individual;Não;6;Não;Não
+C917291;08/12/2009;28/11/2009;2009;12;AM;Itacoatiara;Marginal;Dengue grave;Cura;DENV-1;Surto;Sim;10;Sim;Não
+C770441;31/05/2009;28/05/2009;2009;5;MA;São Luís;Santa Cruz;Descartado;Cura;DENV-4;Surto;Não;3;Não;Não
+C572470;05/07/2024;29/06/2024;2024;7;RS;Canoas;São João;Dengue clássico;Óbito;DENV-1;Surto;Não;6;Não;Sim
+C758056;04/05/2015;02/05/2015;2015;5;BA;Salvador;Jardim América;Dengue c/ sinais de alarme;Cura;DENV-4;Individual;Sim;2;Sim;Não
+C945956;25/06/2019;23/06/2019;2019;6;CE;Caucaia;Horizonte;Dengue clássico;Cura;DENV-3;Individual;Não;2;Não;Não
+C000864;09/09/2024;27/08/2024;2024;9;RJ;Rio de Janeiro;Jardim Europa;Dengue c/ sinais de alarme;Cura;DENV-1;Individual;Sim;13;Sim;Não
+C334605;03/02/2013;02/02/2013;2013;2;ES;Vila Velha;Parque Industrial;Dengue c/ sinais de alarme;Cura;DENV-2;Surto;Sim;1;Sim;Não
+C285160;21/05/2008;14/05/2008;2008;5;RS;Canoas;São João;Dengue clássico;Cura;Não identificado;Surto;Não;7;Não;Não
+C458484;24/03/2010;16/03/2010;2010;3;PR;Cascavel;Jardim Europa;Dengue clássico;Cura;DENV-1;Surto;Não;8;Não;Não
+C194912;20/03/2023;08/03/2023;2023;3;RS;Porto Alegre;Planalto;Dengue grave;Ignorado;DENV-2;Individual;Sim;12;Sim;Não
+C299033;16/07/2019;13/07/2019;2019;7;SP;Sorocaba;Jardim América;Descartado;Cura;DENV-3;Surto;Não;3;Não;Não
+C711559;02/08/2000;21/07/2000;2000;8;PA;Marabá;Marginal;Descartado;Ignorado;DENV-1;Individual;Não;12;Não;Não
+C826541;13/11/2012;31/10/2012;2012;11;AM;Manaus;Alto da Serra;Dengue grave;Cura;DENV-4;Individual;Sim;13;Sim;Não
+C604233;07/01/2018;07/01/2018;2018;1;AM;Coari;Parque Industrial;Dengue c/ sinais de alarme;Cura;DENV-3;Surto;Sim;0;Sim;Não
+C773760;10/06/2004;28/05/2004;2004;6;BA;Camaçari;Baixada;Dengue clássico;Cura;DENV-4;Individual;Não;13;Não;Não
+C851351;06/10/2021;24/09/2021;2021;10;RS;Canoas;Residencial;Dengue grave;Cura;Não identificado;Individual;Sim;12;Sim;Não
+C031343;14/01/2009;01/01/2009;2009;1;MG;Uberlândia;Marginal;Dengue clássico;Cura;DENV-1;Individual;Sim;13;Não;Não
+C538280;06/01/2020;04/01/2020;2020;1;ES;Serra;Vila Real;Dengue c/ sinais de alarme;Ignorado;DENV-1;Surto;Sim;2;Sim;Não
+C240770;25/08/2009;12/08/2009;2009;8;SP;Campinas;Baixada;Dengue clássico;Cura;DENV-2;Individual;Não;13;Não;Não
+C332468;07/05/2011;28/04/2011;2011;5;AM;Manaus;Boa Vista;Dengue clássico;Cura;DENV-4;Individual;Não;9;Não;Não
+C210968;22/10/2016;14/10/2016;2016;10;SP;Ribeirão Preto;Parque Industrial;Descartado;Ignorado;DENV-3;Surto;Não;8;Não;Não
+C310429;26/10/2010;12/10/2010;2010;10;ES;Vila Velha;Planalto;Dengue clássico;Ignorado;DENV-4;Surto;Não;14;Não;Não
+C649331;13/07/2008;08/07/2008;2008;7;GO;Goiânia;Horizonte;Descartado;Cura;Não identificado;Individual;Não;5;Não;Não
+C163037;08/10/2005;27/09/2005;2005;10;BA;Salvador;Vila Real;Dengue clássico;Em tratamento;DENV-3;Surto;Não;11;Não;Não
+C485908;18/09/2011;09/09/2011;2011;9;PR;Maringá;São João;Dengue clássico;Óbito;Não identificado;Individual;Não;9;Não;Sim
+C245943;26/05/2013;20/05/2013;2013;5;SC;São José;Planalto;Dengue clássico;Cura;Não identificado;Individual;Não;6;Não;Não
+C027174;12/12/2014;02/12/2014;2014;12;PR;Curitiba;Vila Real;Dengue clássico;Cura;DENV-1;Individual;Não;10;Não;Não
+C301303;12/04/2019;06/04/2019;2019;4;AM;Manacapuru;Parque Industrial;Dengue c/ sinais de alarme;Óbito;Não identificado;Individual;Sim;6;Sim;Sim
+C153009;03/03/2011;28/02/2011;2011;3;SP;Bauru;Centro;Descartado;Cura;DENV-4;Surto;Não;3;Não;Não
+C942717;01/01/2022;27/12/2021;2022;1;CE;Caucaia;São João;Dengue clássico;Cura;Não identificado;Individual;Não;5;Não;Não
+C650180;10/09/2001;04/09/2001;2001;9;RJ;Nova Iguaçu;Residencial;Descartado;Cura;DENV-1;Surto;Não;6;Não;Não
+C260415;23/07/2024;19/07/2024;2024;7;MA;Timon;Jardim América;Dengue c/ sinais de alarme;Cura;Não identificado;Individual;Sim;4;Sim;Não
+C678934;16/04/2005;12/04/2005;2005;4;CE;Fortaleza;Planalto;Dengue clássico;Cura;DENV-2;Individual;Não;4;Não;Não
+C200154;06/05/2009;25/04/2009;2009;5;PA;Marabá;Marginal;Dengue c/ sinais de alarme;Cura;DENV-1;Individual;Sim;11;Sim;Não
+C240102;04/07/2011;24/06/2011;2011;7;GO;Goiânia;Marginal;Dengue clássico;Óbito;Não identificado;Surto;Não;10;Não;Sim
+C892733;21/01/2002;21/01/2002;2002;1;CE;Fortaleza;Jardim América;Dengue clássico;Cura;DENV-1;Surto;Não;0;Não;Não
+C671609;01/05/2017;20/04/2017;2017;5;CE;Maracanaú;Santa Cruz;Dengue c/ sinais de alarme;Cura;DENV-2;Individual;Sim;11;Sim;Não
+C768878;29/08/2019;27/08/2019;2019;8;CE;Sobral;Vila Real;Dengue grave;Cura;DENV-4;Surto;Sim;2;Sim;Não
+C857729;24/01/2002;23/01/2002;2002;1;RJ;Duque de Caxias;Vila Real;Dengue clássico;Cura;DENV-3;Individual;Sim;1;Não;Não
+C886095;15/07/2015;05/07/2015;2015;7;CE;Caucaia;Vila Real;Descartado;Cura;DENV-4;Surto;Não;10;Não;Não
+C026424;25/01/2022;20/01/2022;2022;1;SC;Joinville;Jardim América;Dengue clássico;Cura;Não identificado;Surto;Não;5;Não;Não
+C145006;07/03/2014;06/03/2014;2014;3;RJ;Duque de Caxias;Vila Real;Dengue c/ sinais de alarme;Cura;Não identificado;Surto;Sim;1;Sim;Não
+C302456;22/04/2009;12/04/2009;2009;4;RS;Santa Maria;Planalto;Descartado;Óbito;DENV-4;Surto;Não;10;Não;Sim
+C367531;27/05/2004;15/05/2004;2004;5;GO;Rio Verde;Jardim América;Descartado;Cura;DENV-2;Surto;Sim;12;Não;Não
+C828137;07/06/2011;29/05/2011;2011;6;MG;Juiz de Fora;Jardim América;Dengue clássico;Cura;DENV-1;Individual;Não;9;Não;Não
+C509845;15/08/2022;13/08/2022;2022;8;PR;Ponta Grossa;Vila Real;Dengue c/ sinais de alarme;Cura;DENV-2;Individual;Sim;2;Sim;Não
+C853997;28/05/2017;18/05/2017;2017;5;GO;Aparecida de Goiânia;Jardim América;Dengue grave;Ignorado;DENV-3;Surto;Sim;10;Sim;Não
+C772787;27/12/2005;25/12/2005;2005;12;PE;Olinda;Vila Real;Dengue c/ sinais de alarme;Ignorado;Não identificado;Individual;Sim;2;Sim;Não
+C695631;22/01/2013;12/01/2013;2013;1;ES;Vila Velha;Horizonte;Dengue clássico;Cura;DENV-3;Surto;Não;10;Não;Não
+C885016;02/10/2018;22/09/2018;2018;10;AM;Coari;Parque Industrial;Descartado;Em tratamento;DENV-2;Surto;Não;10;Não;Não
+C534665;31/03/2011;29/03/2011;2011;3;PR;Londrina;Santa Cruz;Dengue clássico;Cura;DENV-2;Surto;Não;2;Não;Não
+C399350;06/12/2012;25/11/2012;2012;12;ES;Cachoeiro;Alto da Serra;Descartado;Cura;DENV-3;Individual;Não;11;Não;Não
+C567921;26/02/2010;12/02/2010;2010;2;AM;Manacapuru;Baixada;Descartado;Cura;Não identificado;Individual;Não;14;Não;Não
+C451523;19/01/2023;18/01/2023;2023;1;MG;Uberlândia;Residencial;Dengue c/ sinais de alarme;Cura;Não identificado;Individual;Sim;1;Sim;Não
+C375075;30/06/2014;21/06/2014;2014;6;SP;Campinas;Marginal;Dengue clássico;Ignorado;DENV-2;Individual;Não;9;Não;Não
+C022332;05/09/2018;28/08/2018;2018;9;PR;Cascavel;Vila Nova;Dengue grave;Cura;Não identificado;Surto;Sim;8;Sim;Não
+C208371;16/07/2015;09/07/2015;2015;7;PA;Belém;Jardim América;Dengue clássico;Ignorado;DENV-3;Surto;Não;7;Não;Não
+C426300;03/11/2016;26/10/2016;2016;11;SP;Ribeirão Preto;Baixada;Dengue grave;Óbito;Não identificado;Individual;Sim;8;Sim;Sim
+C288748;06/08/2009;24/07/2009;2009;8;MT;Cuiabá;Boa Vista;Descartado;Cura;DENV-1;Individual;Não;13;Não;Não
+C755223;17/11/2014;17/11/2014;2014;11;SP;Sorocaba;Residencial;Dengue clássico;Cura;Não identificado;Surto;Sim;0;Não;Não
+C707083;01/07/2017;21/06/2017;2017;7;CE;Juazeiro do Norte;Centro;Dengue clássico;Em tratamento;Não identificado;Individual;Sim;10;Não;Não
+C364513;22/11/2003;18/11/2003;2003;11;BA;Vitória da Conquista;Horizonte;Dengue c/ sinais de alarme;Cura;Não identificado;Surto;Sim;4;Sim;Não
+C105350;26/09/2016;26/09/2016;2016;9;MT;Várzea Grande;Santa Cruz;Dengue grave;Em tratamento;DENV-2;Surto;Sim;0;Sim;Não
+C811788;30/12/2022;28/12/2022;2022;12;ES;Cariacica;Marginal;Dengue clássico;Cura;Não identificado;Surto;Não;2;Não;Não
+C743161;24/01/2013;14/01/2013;2013;1;MT;Tangará da Serra;Jardim América;Dengue clássico;Cura;Não identificado;Individual;Sim;10;Não;Não
+C615891;24/10/2021;17/10/2021;2021;10;RS;Caxias do Sul;São João;Dengue clássico;Ignorado;DENV-3;Individual;Não;7;Não;Não
+C344741;29/07/2019;25/07/2019;2019;7;PR;Londrina;Residencial;Dengue clássico;Cura;Não identificado;Individual;Não;4;Não;Não
+C280005;26/04/2006;12/04/2006;2006;4;SC;Blumenau;Baixada;Dengue grave;Cura;DENV-1;Surto;Sim;14;Sim;Não
+C561385;31/08/2001;23/08/2001;2001;8;PR;Cascavel;Boa Vista;Dengue clássico;Em tratamento;DENV-3;Individual;Não;8;Não;Não
+C299671;29/01/2004;23/01/2004;2004;1;MA;Codó;Planalto;Dengue clássico;Em tratamento;DENV-2;Individual;Sim;6;Não;Não
+C072226;03/08/2006;23/07/2006;2006;8;AM;Coari;Parque Industrial;Descartado;Óbito;Não identificado;Surto;Não;11;Não;Sim
+C375882;06/06/2020;23/05/2020;2020;6;CE;Maracanaú;Marginal;Dengue clássico;Cura;Não identificado;Individual;Não;14;Não;Não
+C248378;07/07/2003;29/06/2003;2003;7;CE;Maracanaú;São João;Dengue clássico;Cura;DENV-1;Individual;Não;8;Não;Não
+C137128;25/06/2003;17/06/2003;2003;6;MA;Imperatriz;Boa Vista;Descartado;Cura;Não identificado;Individual;Não;8;Não;Não
+C051605;23/06/2009;14/06/2009;2009;6;MA;Timon;Vila Real;Dengue clássico;Cura;DENV-1;Individual;Sim;9;Não;Não
+C878926;18/03/2018;09/03/2018;2018;3;BA;Feira de Santana;Planalto;Dengue grave;Cura;DENV-4;Surto;Sim;9;Sim;Não
+C162734;14/06/2018;05/06/2018;2018;6;MG;Uberlândia;Baixada;Dengue clássico;Ignorado;Não identificado;Individual;Não;9;Não;Não
+C968619;07/12/2005;06/12/2005;2005;12;ES;Cariacica;Jardim Europa;Dengue clássico;Cura;Não identificado;Individual;Não;1;Não;Não
+C950964;10/04/2005;09/04/2005;2005;4;RS;Santa Maria;Planalto;Dengue c/ sinais de alarme;Cura;DENV-4;Surto;Sim;1;Sim;Não
+C357760;13/10/2023;07/10/2023;2023;10;SC;Florianópolis;Residencial;Dengue clássico;Óbito;DENV-2;Surto;Não;6;Não;Sim
+C417751;09/10/2003;05/10/2003;2003;10;MA;Imperatriz;Marginal;Dengue grave;Em tratamento;DENV-1;Surto;Sim;4;Sim;Não
+C628432;09/03/2014;03/03/2014;2014;3;MT;Várzea Grande;Residencial;Dengue clássico;Cura;Não identificado;Surto;Não;6;Não;Não
+C154957;18/10/2024;06/10/2024;2024;10;PR;Londrina;Jardim Europa;Dengue grave;Óbito;DENV-4;Individual;Sim;12;Sim;Sim
+C578660;29/04/2010;22/04/2010;2010;4;SC;Florianópolis;Residencial;Descartado;Cura;DENV-4;Individual;Não;7;Não;Não
+C023679;16/07/2006;09/07/2006;2006;7;PR;Curitiba;Baixada;Dengue grave;Cura;DENV-4;Surto;Sim;7;Sim;Não
+C089517;21/11/2007;11/11/2007;2007;11;GO;Luziânia;Centro;Dengue c/ sinais de alarme;Óbito;Não identificado;Individual;Sim;10;Sim;Sim
+C023642;18/08/2001;13/08/2001;2001;8;AM;Parintins;Parque Industrial;Dengue clássico;Cura;DENV-1;Individual;Não;5;Não;Não
+C392619;16/10/2012;05/10/2012;2012;10;RS;Porto Alegre;Planalto;Dengue grave;Ignorado;Não identificado;Individual;Sim;11;Sim;Não
+C531525;17/09/2022;16/09/2022;2022;9;BA;Feira de Santana;Jardim Europa;Dengue grave;Cura;Não identificado;Surto;Sim;1;Sim;Não
+C445010;22/09/2021;10/09/2021;2021;9;GO;Rio Verde;Jardim Europa;Dengue clássico;Cura;Não identificado;Individual;Não;12;Não;Não
+C722373;06/03/2014;28/02/2014;2014;3;MT;Várzea Grande;Alto da Serra;Dengue clássico;Em tratamento;Não identificado;Individual;Não;6;Não;Não
+C179172;03/11/2009;20/10/2009;2009;11;MA;Caxias;São João;Dengue grave;Cura;DENV-2;Surto;Sim;14;Sim;Não
+C119666;28/03/2011;15/03/2011;2011;3;ES;Vila Velha;Boa Vista;Dengue grave;Cura;Não identificado;Individual;Sim;13;Sim;Não
+C499225;02/03/2014;23/02/2014;2014;3;SC;São José;São João;Dengue grave;Cura;DENV-1;Surto;Sim;7;Sim;Não
+C415306;21/07/2022;16/07/2022;2022;7;MA;Codó;Centro;Dengue c/ sinais de alarme;Cura;DENV-4;Individual;Sim;5;Sim;Não
+C246342;27/08/2011;25/08/2011;2011;8;PE;Olinda;Horizonte;Dengue grave;Cura;Não identificado;Surto;Sim;2;Sim;Não
+C968785;22/03/2020;20/03/2020;2020;3;PE;Petrolina;Santa Cruz;Dengue grave;Cura;DENV-4;Individual;Sim;2;Sim;Não
+C186534;10/06/2000;08/06/2000;2000;6;MG;Uberlândia;Vila Real;Dengue c/ sinais de alarme;Óbito;DENV-3;Individual;Sim;2;Sim;Sim
+C643359;30/04/2007;30/04/2007;2007;4;CE;Fortaleza;Residencial;Dengue clássico;Cura;DENV-3;Surto;Não;0;Não;Não
+C561736;14/10/2015;01/10/2015;2015;10;SP;Sorocaba;Jardim América;Descartado;Ignorado;DENV-4;Surto;Não;13;Não;Não
+C694649;14/11/2012;07/11/2012;2012;11;RS;Porto Alegre;Jardim Europa;Descartado;Cura;DENV-1;Individual;Não;7;Não;Não
+C387975;29/03/2014;19/03/2014;2014;3;PE;Caruaru;São João;Dengue clássico;Cura;DENV-4;Surto;Não;10;Não;Não
+C970110;15/01/2001;13/01/2001;2001;1;MG;Uberlândia;Baixada;Descartado;Cura;DENV-4;Individual;Não;2;Não;Não
+C168322;15/07/2023;03/07/2023;2023;7;SP;Santos;Jardim Europa;Dengue clássico;Cura;Não identificado;Individual;Não;12;Não;Não
+C349524;27/08/2007;27/08/2007;2007;8;MG;Montes Claros;Baixada;Dengue clássico;Cura;Não identificado;Individual;Não;0;Não;Não
+C358432;14/07/2019;06/07/2019;2019;7;AM;Coari;Vila Real;Descartado;Em tratamento;DENV-3;Individual;Não;8;Não;Não
+C647277;16/02/2006;11/02/2006;2006;2;SP;Ribeirão Preto;Baixada;Dengue clássico;Óbito;Não identificado;Individual;Não;5;Não;Sim
+C427682;07/10/2016;04/10/2016;2016;10;PR;Curitiba;Planalto;Dengue c/ sinais de alarme;Em tratamento;DENV-1;Surto;Sim;3;Sim;Não
+C481266;16/03/2012;12/03/2012;2012;3;MT;Várzea Grande;Planalto;Descartado;Em tratamento;DENV-3;Surto;Não;4;Não;Não
+C112772;28/10/2006;28/10/2006;2006;10;ES;Serra;Centro;Dengue grave;Cura;DENV-2;Individual;Sim;0;Sim;Não
+C473890;11/11/2018;07/11/2018;2018;11;MA;Imperatriz;São João;Dengue c/ sinais de alarme;Cura;DENV-4;Individual;Sim;4;Sim;Não
+C172747;28/08/2008;14/08/2008;2008;8;PA;Marabá;Vila Nova;Dengue clássico;Cura;DENV-1;Individual;Não;14;Não;Não
+C917751;15/05/2009;08/05/2009;2009;5;MA;São Luís;Planalto;Dengue c/ sinais de alarme;Cura;DENV-4;Surto;Sim;7;Sim;Não
+C240753;16/05/2002;03/05/2002;2002;5;ES;Serra;Marginal;Descartado;Cura;DENV-2;Individual;Não;13;Não;Não
+C301069;07/05/2021;26/04/2021;2021;5;SP;Ribeirão Preto;Alto da Serra;Dengue grave;Cura;Não identificado;Individual;Sim;11;Sim;Não
+C129778;07/12/2006;26/11/2006;2006;12;SP;Guarulhos;Parque Industrial;Dengue grave;Cura;DENV-4;Individual;Sim;11;Sim;Não
+C442611;05/02/2016;25/01/2016;2016;2;SP;Bauru;Jardim Europa;Dengue clássico;Cura;DENV-3;Surto;Não;11;Não;Não
+C223063;17/11/2024;15/11/2024;2024;11;GO;Rio Verde;Santa Cruz;Dengue clássico;Em tratamento;DENV-2;Individual;Não;2;Não;Não
+C535456;22/09/2010;17/09/2010;2010;9;AM;Itacoatiara;Alto da Serra;Descartado;Cura;DENV-3;Surto;Não;5;Não;Não
+C910110;04/05/2004;26/04/2004;2004;5;MT;Rondonópolis;Jardim América;Descartado;Cura;Não identificado;Surto;Sim;8;Não;Não
+C092480;25/06/2011;25/06/2011;2011;6;MT;Sinop;Planalto;Dengue clássico;Cura;Não identificado;Individual;Não;0;Não;Não
+C200399;10/09/2018;28/08/2018;2018;9;PE;Paulista;Residencial;Dengue clássico;Cura;DENV-1;Individual;Não;13;Não;Não
+C595577;17/04/2017;14/04/2017;2017;4;GO;Aparecida de Goiânia;Planalto;Dengue clássico;Em tratamento;Não identificado;Surto;Não;3;Não;Não
+C556559;13/03/2019;27/02/2019;2019;3;MT;Sinop;Residencial;Dengue clássico;Cura;DENV-3;Surto;Não;14;Não;Não
+C527929;08/05/2019;25/04/2019;2019;5;SC;Blumenau;Jardim Europa;Descartado;Cura;DENV-4;Surto;Não;13;Não;Não
+C809237;13/10/2012;04/10/2012;2012;10;SP;Bauru;Centro;Dengue clássico;Em tratamento;Não identificado;Surto;Não;9;Não;Não
+C041282;23/12/2024;14/12/2024;2024;12;RS;Santa Maria;Planalto;Dengue grave;Cura;DENV-3;Surto;Sim;9;Sim;Não
+C186595;13/10/2009;02/10/2009;2009;10;RJ;Petrópolis;Jardim Europa;Dengue clássico;Cura;DENV-3;Individual;Não;11;Não;Não
+C848826;21/07/2003;09/07/2003;2003;7;GO;Luziânia;Jardim Europa;Dengue clássico;Cura;Não identificado;Individual;Não;12;Não;Não
+C152073;10/09/2013;02/09/2013;2013;9;MT;Sinop;Centro;Dengue clássico;Cura;DENV-4;Individual;Não;8;Não;Não
+C503057;10/09/2017;08/09/2017;2017;9;ES;Cariacica;Santa Cruz;Dengue clássico;Cura;DENV-2;Individual;Sim;2;Não;Não
+C672073;25/11/2021;19/11/2021;2021;11;MA;Codó;Boa Vista;Descartado;Ignorado;Não identificado;Individual;Não;6;Não;Não
+C671388;25/05/2016;20/05/2016;2016;5;RJ;Duque de Caxias;Jardim Europa;Dengue clássico;Cura;Não identificado;Individual;Não;5;Não;Não
+C707261;25/06/2010;22/06/2010;2010;6;MA;São Luís;Marginal;Descartado;Cura;DENV-3;Individual;Não;3;Não;Não
+C525247;16/03/2020;09/03/2020;2020;3;PE;Recife;Santa Cruz;Dengue clássico;Cura;DENV-2;Individual;Não;7;Não;Não
+C262490;19/08/2023;19/08/2023;2023;8;CE;Sobral;Marginal;Dengue clássico;Cura;Não identificado;Surto;Sim;0;Não;Não
+C390385;02/11/2004;02/11/2004;2004;11;MT;Rondonópolis;Baixada;Dengue clássico;Cura;DENV-2;Individual;Não;0;Não;Não
+C470633;18/12/2000;18/12/2000;2000;12;PA;Marabá;Planalto;Dengue clássico;Em tratamento;Não identificado;Surto;Não;0;Não;Não
+C992331;06/08/2011;23/07/2011;2011;8;PR;Curitiba;Parque Industrial;Dengue c/ sinais de alarme;Cura;Não identificado;Surto;Sim;14;Sim;Não
+C993521;21/03/2010;15/03/2010;2010;3;PA;Castanhal;Baixada;Dengue clássico;Ignorado;Não identificado;Individual;Não;6;Não;Não
+C919935;15/07/2023;01/07/2023;2023;7;SC;Joinville;Santa Cruz;Dengue clássico;Cura;Não identificado;Individual;Não;14;Não;Não
+C444989;23/07/2006;12/07/2006;2006;7;MG;Contagem;Baixada;Dengue clássico;Cura;DENV-3;Individual;Não;11;Não;Não
+C665200;27/11/2005;25/11/2005;2005;11;PR;Londrina;Jardim América;Dengue clássico;Ignorado;DENV-4;Individual;Não;2;Não;Não
+C412499;11/10/2016;09/10/2016;2016;10;PA;Castanhal;Vila Real;Dengue c/ sinais de alarme;Óbito;DENV-4;Individual;Sim;2;Sim;Sim
+C434240;06/03/2009;05/03/2009;2009;3;GO;Aparecida de Goiânia;Alto da Serra;Dengue clássico;Óbito;Não identificado;Surto;Não;1;Não;Sim
+C480953;27/01/2024;19/01/2024;2024;1;GO;Anápolis;Jardim Europa;Descartado;Cura;Não identificado;Individual;Não;8;Não;Não
+C384460;21/03/2002;18/03/2002;2002;3;PA;Marabá;Planalto;Dengue clássico;Óbito;Não identificado;Individual;Não;3;Não;Sim
+C614415;17/06/2022;16/06/2022;2022;6;MA;Timon;Jardim América;Dengue clássico;Ignorado;Não identificado;Individual;Não;1;Não;Não
+C114353;26/03/2011;21/03/2011;2011;3;RS;Canoas;Jardim América;Descartado;Cura;Não identificado;Individual;Não;5;Não;Não
+C618174;01/01/2002;20/12/2001;2002;1;CE;Sobral;Jardim Europa;Dengue clássico;Cura;DENV-3;Surto;Não;12;Não;Não
+C044864;28/11/2005;25/11/2005;2005;11;BA;Feira de Santana;Jardim América;Dengue clássico;Ignorado;DENV-2;Surto;Não;3;Não;Não
+C256580;02/08/2003;24/07/2003;2003;8;MA;Timon;Vila Real;Dengue grave;Cura;DENV-2;Individual;Sim;9;Sim;Não
+C290416;22/07/2006;09/07/2006;2006;7;MT;Rondonópolis;Centro;Dengue clássico;Ignorado;Não identificado;Individual;Não;13;Não;Não
+C304521;11/08/2001;10/08/2001;2001;8;MA;Codó;São João;Dengue clássico;Cura;Não identificado;Surto;Não;1;Não;Não
+C176946;17/07/2023;14/07/2023;2023;7;PE;Paulista;Jardim Europa;Descartado;Cura;Não identificado;Surto;Não;3;Não;Não
+C931556;17/03/2014;13/03/2014;2014;3;CE;Sobral;Baixada;Dengue grave;Ignorado;DENV-4;Individual;Sim;4;Sim;Não
+C618794;14/01/2013;11/01/2013;2013;1;RS;Santa Maria;Boa Vista;Dengue clássico;Cura;DENV-3;Surto;Sim;3;Não;Não
+C353063;20/01/2009;09/01/2009;2009;1;PA;Ananindeua;Centro;Dengue clássico;Cura;Não identificado;Individual;Não;11;Não;Não
+C764685;11/11/2014;29/10/2014;2014;11;SC;Joinville;Boa Vista;Dengue clássico;Óbito;DENV-3;Surto;Não;13;Não;Sim
+C565053;19/07/2002;06/07/2002;2002;7;PR;Ponta Grossa;Marginal;Dengue grave;Cura;DENV-3;Individual;Sim;13;Sim;Não
+C853587;30/05/2001;25/05/2001;2001;5;MG;Contagem;Baixada;Dengue c/ sinais de alarme;Em tratamento;Não identificado;Surto;Sim;5;Sim;Não
+C383513;26/07/2018;25/07/2018;2018;7;GO;Goiânia;Santa Cruz;Dengue c/ sinais de alarme;Cura;DENV-1;Individual;Sim;1;Sim;Não
+C134833;12/09/2022;12/09/2022;2022;9;RS;Porto Alegre;Vila Real;Dengue c/ sinais de alarme;Em tratamento;DENV-1;Individual;Sim;0;Sim;Não
+C096504;01/06/2017;21/05/2017;2017;6;ES;Vitória;Vila Real;Dengue grave;Cura;DENV-1;Individual;Sim;11;Sim;Não
+C257621;11/01/2014;01/01/2014;2014;1;PA;Santarém;Centro;Dengue clássico;Cura;DENV-1;Individual;Não;10;Não;Não
+C529851;07/08/2004;04/08/2004;2004;8;AM;Coari;Planalto;Dengue grave;Cura;DENV-3;Surto;Sim;3;Sim;Não
+C104155;01/11/2005;01/11/2005;2005;11;PA;Marabá;Centro;Dengue c/ sinais de alarme;Cura;Não identificado;Surto;Sim;0;Sim;Não
+C975086;10/12/2014;27/11/2014;2014;12;AM;Itacoatiara;Santa Cruz;Dengue clássico;Em tratamento;DENV-1;Surto;Sim;13;Não;Não
+C319383;27/05/2010;24/05/2010;2010;5;BA;Camaçari;Vila Real;Dengue clássico;Ignorado;DENV-4;Individual;Não;3;Não;Não
+C235547;14/10/2015;07/10/2015;2015;10;RJ;Duque de Caxias;Jardim América;Dengue c/ sinais de alarme;Cura;DENV-1;Surto;Sim;7;Sim;Não
+C522140;28/07/2013;20/07/2013;2013;7;PA;Belém;Alto da Serra;Dengue c/ sinais de alarme;Cura;DENV-2;Surto;Sim;8;Sim;Não
+C677815;16/05/2015;08/05/2015;2015;5;PR;Ponta Grossa;Horizonte;Descartado;Cura;DENV-3;Individual;Não;8;Não;Não
+C873460;31/10/2013;25/10/2013;2013;10;SC;São José;Vila Nova;Dengue clássico;Ignorado;DENV-2;Individual;Não;6;Não;Não
+C351635;17/09/2006;10/09/2006;2006;9;PR;Londrina;Parque Industrial;Dengue grave;Cura;Não identificado;Surto;Sim;7;Sim;Não
+C658809;12/06/2015;11/06/2015;2015;6;RS;Canoas;Residencial;Dengue grave;Cura;DENV-1;Individual;Sim;1;Sim;Não
+C733335;12/02/2016;11/02/2016;2016;2;GO;Luziânia;Baixada;Dengue clássico;Cura;Não identificado;Individual;Não;1;Não;Não
+C961007;06/12/2024;30/11/2024;2024;12;MA;Imperatriz;Boa Vista;Dengue clássico;Cura;DENV-4;Surto;Não;6;Não;Não
+C964483;09/09/2018;27/08/2018;2018;9;MG;Belo Horizonte;Vila Nova;Dengue c/ sinais de alarme;Ignorado;DENV-2;Individual;Sim;13;Sim;Não
+C295004;19/05/2022;06/05/2022;2022;5;CE;Sobral;Centro;Descartado;Cura;DENV-3;Individual;Não;13;Não;Não
+C974080;06/08/2003;04/08/2003;2003;8;AM;Manacapuru;Residencial;Descartado;Em tratamento;DENV-4;Individual;Não;2;Não;Não
+C049533;15/01/2014;06/01/2014;2014;1;MT;Tangará da Serra;Alto da Serra;Dengue clássico;Cura;DENV-3;Surto;Não;9;Não;Não
+C041098;01/09/2013;21/08/2013;2013;9;MG;Belo Horizonte;Residencial;Dengue grave;Cura;Não identificado;Individual;Sim;11;Sim;Não
+C622769;16/09/2005;08/09/2005;2005;9;BA;Camaçari;Jardim América;Dengue clássico;Cura;Não identificado;Individual;Não;8;Não;Não
+C783019;17/11/2007;13/11/2007;2007;11;MT;Sinop;São João;Descartado;Cura;DENV-2;Surto;Não;4;Não;Não
+C158028;12/03/2017;09/03/2017;2017;3;PR;Ponta Grossa;Alto da Serra;Descartado;Óbito;DENV-1;Individual;Não;3;Não;Sim
+C632542;15/07/2013;08/07/2013;2013;7;MA;Timon;Vila Real;Descartado;Em tratamento;DENV-4;Surto;Não;7;Não;Não
+C949832;04/11/2001;03/11/2001;2001;11;MT;Rondonópolis;Planalto;Dengue grave;Cura;DENV-1;Surto;Sim;1;Sim;Não
+C513615;18/09/2020;06/09/2020;2020;9;MT;Tangará da Serra;Jardim Europa;Descartado;Cura;Não identificado;Individual;Não;12;Não;Não
+C637206;13/06/2018;12/06/2018;2018;6;SC;Florianópolis;Centro;Dengue grave;Cura;DENV-1;Individual;Sim;1;Sim;Não
+C376811;20/05/2005;19/05/2005;2005;5;AM;Manaus;Residencial;Dengue grave;Cura;DENV-2;Surto;Sim;1;Sim;Não
+C766727;04/06/2003;25/05/2003;2003;6;BA;Camaçari;Parque Industrial;Dengue c/ sinais de alarme;Cura;DENV-3;Individual;Sim;10;Sim;Não
+C496141;15/09/2002;11/09/2002;2002;9;CE;Maracanaú;São João;Dengue clássico;Cura;DENV-4;Individual;Não;4;Não;Não
+C077046;02/11/2019;22/10/2019;2019;11;AM;Manaus;Marginal;Dengue clássico;Cura;DENV-1;Individual;Sim;11;Não;Não
+C594487;30/10/2006;19/10/2006;2006;10;MT;Sinop;Santa Cruz;Dengue clássico;Cura;DENV-1;Individual;Não;11;Não;Não
+C936469;17/08/2021;16/08/2021;2021;8;SP;Sorocaba;Residencial;Dengue grave;Em tratamento;DENV-1;Surto;Sim;1;Sim;Não
+C031686;25/08/2020;13/08/2020;2020;8;PA;Santarém;Jardim América;Dengue clássico;Cura;DENV-3;Surto;Não;12;Não;Não
+C923764;03/07/2008;01/07/2008;2008;7;RJ;Duque de Caxias;Residencial;Dengue clássico;Cura;DENV-4;Individual;Sim;2;Não;Não
+C265985;08/03/2015;24/02/2015;2015;3;SP;Guarulhos;Centro;Descartado;Cura;Não identificado;Individual;Não;12;Não;Não
+C907110;15/05/2006;08/05/2006;2006;5;RS;Porto Alegre;Centro;Descartado;Cura;DENV-3;Individual;Não;7;Não;Não
+C728489;26/11/2002;13/11/2002;2002;11;MA;Codó;Vila Nova;Dengue clássico;Cura;Não identificado;Surto;Não;13;Não;Não
+C531146;28/06/2024;26/06/2024;2024;6;PE;Recife;Parque Industrial;Dengue clássico;Cura;Não identificado;Individual;Não;2;Não;Não
+C180097;30/10/2001;28/10/2001;2001;10;MA;Imperatriz;Marginal;Dengue clássico;Ignorado;Não identificado;Surto;Não;2;Não;Não
+C496014;13/09/2005;10/09/2005;2005;9;CE;Maracanaú;Residencial;Dengue clássico;Cura;DENV-1;Surto;Não;3;Não;Não
+C689546;30/07/2010;27/07/2010;2010;7;PE;Petrolina;Centro;Dengue clássico;Em tratamento;DENV-2;Surto;Não;3;Não;Não
+C160624;20/09/2006;10/09/2006;2006;9;SP;Campinas;Jardim América;Dengue c/ sinais de alarme;Óbito;DENV-3;Surto;Sim;10;Sim;Sim
+C105024;23/05/2002;09/05/2002;2002;5;SP;São Paulo;Residencial;Dengue grave;Cura;Não identificado;Surto;Sim;14;Sim;Não
+C241805;14/08/2014;11/08/2014;2014;8;CE;Caucaia;Residencial;Dengue clássico;Cura;DENV-1;Surto;Não;3;Não;Não
+C176921;31/05/2020;29/05/2020;2020;5;MG;Uberlândia;Marginal;Dengue c/ sinais de alarme;Cura;Não identificado;Individual;Sim;2;Sim;Não
+C722179;25/11/2020;18/11/2020;2020;11;BA;Feira de Santana;Jardim América;Dengue c/ sinais de alarme;Cura;DENV-2;Individual;Sim;7;Sim;Não
+C404824;04/06/2023;28/05/2023;2023;6;RJ;Duque de Caxias;Baixada;Dengue clássico;Ignorado;DENV-2;Individual;Não;7;Não;Não
+C754386;30/03/2000;24/03/2000;2000;3;RS;Santa Maria;Marginal;Dengue clássico;Cura;DENV-1;Surto;Não;6;Não;Não
+C126043;02/08/2000;22/07/2000;2000;8;MA;Imperatriz;Jardim América;Descartado;Cura;Não identificado;Surto;Não;11;Não;Não
+C847346;10/02/2001;03/02/2001;2001;2;SC;Chapecó;Residencial;Dengue c/ sinais de alarme;Cura;Não identificado;Individual;Sim;7;Sim;Não
+C665266;23/06/2001;19/06/2001;2001;6;CE;Juazeiro do Norte;Planalto;Dengue c/ sinais de alarme;Cura;DENV-3;Individual;Sim;4;Sim;Não
+C403675;25/04/2002;24/04/2002;2002;4;PA;Santarém;Marginal;Dengue c/ sinais de alarme;Cura;DENV-2;Individual;Sim;1;Sim;Não
+C877738;13/02/2005;03/02/2005;2005;2;PE;Caruaru;Planalto;Dengue c/ sinais de alarme;Ignorado;Não identificado;Surto;Sim;10;Sim;Não
+C584588;26/09/2016;21/09/2016;2016;9;BA;Salvador;Jardim América;Dengue c/ sinais de alarme;Óbito;DENV-4;Surto;Sim;5;Sim;Sim
+C291264;16/07/2020;15/07/2020;2020;7;PR;Curitiba;Boa Vista;Dengue clássico;Cura;DENV-2;Individual;Não;1;Não;Não
+C462082;28/04/2024;14/04/2024;2024;4;BA;Camaçari;Parque Industrial;Dengue clássico;Óbito;Não identificado;Surto;Não;14;Não;Sim
+C843171;28/08/2014;21/08/2014;2014;8;CE;Sobral;São João;Dengue grave;Em tratamento;DENV-3;Individual;Sim;7;Sim;Não
+C197298;16/02/2002;14/02/2002;2002;2;MA;Caxias;Santa Cruz;Dengue clássico;Cura;Não identificado;Individual;Não;2;Não;Não
+C432769;10/11/2001;05/11/2001;2001;11;MG;Uberlândia;Jardim América;Dengue grave;Cura;DENV-2;Surto;Sim;5;Sim;Não
+C414307;13/12/2023;09/12/2023;2023;12;MA;Codó;Vila Nova;Dengue clássico;Cura;Não identificado;Surto;Não;4;Não;Não
+C779314;12/01/2013;31/12/2012;2013;1;MT;Rondonópolis;Vila Real;Dengue grave;Cura;DENV-1;Individual;Sim;12;Sim;Não
+C840065;26/10/2013;26/10/2013;2013;10;MT;Tangará da Serra;Jardim América;Dengue c/ sinais de alarme;Ignorado;DENV-2;Surto;Sim;0;Sim;Não
+C934650;09/03/2024;25/02/2024;2024;3;ES;Vitória;Jardim América;Dengue c/ sinais de alarme;Cura;Não identificado;Surto;Sim;13;Sim;Não
+C033452;13/03/2019;08/03/2019;2019;3;CE;Caucaia;Residencial;Dengue c/ sinais de alarme;Cura;DENV-4;Surto;Sim;5;Sim;Não
+C485139;19/05/2007;07/05/2007;2007;5;PR;Ponta Grossa;Santa Cruz;Descartado;Cura;Não identificado;Surto;Não;12;Não;Não
+C214591;09/11/2016;08/11/2016;2016;11;RJ;Petrópolis;Alto da Serra;Dengue clássico;Cura;DENV-4;Surto;Não;1;Não;Não
+C472713;31/07/2013;18/07/2013;2013;7;PA;Marabá;Centro;Dengue grave;Cura;Não identificado;Surto;Sim;13;Sim;Não
+C749534;24/01/2008;17/01/2008;2008;1;RJ;Nova Iguaçu;Jardim Europa;Descartado;Cura;DENV-4;Surto;Sim;7;Não;Não
+C025146;18/05/2005;13/05/2005;2005;5;MT;Sinop;Residencial;Dengue grave;Ignorado;DENV-3;Individual;Sim;5;Sim;Não
+C595710;05/11/2018;26/10/2018;2018;11;SP;Guarulhos;São João;Dengue clássico;Cura;DENV-2;Surto;Não;10;Não;Não
+C580534;07/07/2013;03/07/2013;2013;7;SC;Blumenau;Baixada;Descartado;Cura;DENV-3;Individual;Sim;4;Não;Não
+C855571;03/08/2022;31/07/2022;2022;8;RJ;Niterói;Vila Nova;Dengue clássico;Em tratamento;DENV-4;Individual;Não;3;Não;Não
+C149591;18/10/2000;11/10/2000;2000;10;RJ;Niterói;Marginal;Dengue clássico;Cura;DENV-3;Individual;Não;7;Não;Não
+C329471;22/10/2005;09/10/2005;2005;10;GO;Goiânia;Boa Vista;Descartado;Cura;DENV-1;Surto;Não;13;Não;Não
+C490300;23/10/2008;22/10/2008;2008;10;PR;Ponta Grossa;Centro;Dengue clássico;Em tratamento;DENV-1;Individual;Não;1;Não;Não
+C993157;08/10/2015;08/10/2015;2015;10;AM;Parintins;Vila Nova;Dengue clássico;Cura;DENV-2;Individual;Não;0;Não;Não
+C170799;25/08/2000;17/08/2000;2000;8;RJ;Petrópolis;Alto da Serra;Dengue clássico;Cura;Não identificado;Surto;Não;8;Não;Não
+C945473;01/10/2019;21/09/2019;2019;10;PE;Paulista;Vila Nova;Dengue clássico;Cura;DENV-4;Individual;Não;10;Não;Não
+C043476;26/03/2016;15/03/2016;2016;3;PA;Ananindeua;Vila Real;Dengue clássico;Em tratamento;DENV-4;Individual;Não;11;Não;Não
+C306635;16/03/2019;13/03/2019;2019;3;PA;Marabá;Santa Cruz;Dengue clássico;Óbito;Não identificado;Individual;Não;3;Não;Sim
+C781312;31/12/2017;20/12/2017;2017;12;RJ;Niterói;Jardim Europa;Dengue grave;Cura;DENV-4;Individual;Sim;11;Sim;Não
+C789369;26/05/2022;22/05/2022;2022;5;ES;Cariacica;Residencial;Descartado;Ignorado;DENV-4;Surto;Não;4;Não;Não
+C290784;28/06/2005;24/06/2005;2005;6;MG;Juiz de Fora;Jardim América;Dengue c/ sinais de alarme;Óbito;DENV-1;Individual;Sim;4;Sim;Sim
+C765442;02/09/2014;31/08/2014;2014;9;CE;Sobral;Parque Industrial;Dengue clássico;Ignorado;DENV-4;Surto;Não;2;Não;Não
+C079814;12/06/2015;31/05/2015;2015;6;PA;Santarém;Planalto;Dengue grave;Em tratamento;DENV-4;Surto;Sim;12;Sim;Não
+C143375;15/12/2007;07/12/2007;2007;12;MA;São Luís;Centro;Descartado;Cura;DENV-4;Surto;Não;8;Não;Não
+C536720;12/01/2007;04/01/2007;2007;1;MA;Codó;Baixada;Dengue clássico;Cura;Não identificado;Individual;Não;8;Não;Não
+C494022;28/03/2001;16/03/2001;2001;3;MG;Contagem;São João;Descartado;Cura;DENV-3;Individual;Não;12;Não;Não
+C348592;05/09/2013;04/09/2013;2013;9;RS;Porto Alegre;Baixada;Dengue clássico;Cura;Não identificado;Surto;Sim;1;Não;Não
+C581635;19/12/2016;10/12/2016;2016;12;AM;Manaus;São João;Dengue c/ sinais de alarme;Cura;Não identificado;Surto;Sim;9;Sim;Não
+C908222;24/04/2016;18/04/2016;2016;4;MG;Montes Claros;Santa Cruz;Dengue clássico;Óbito;Não identificado;Surto;Não;6;Não;Sim
+C525543;26/02/2004;15/02/2004;2004;2;PR;Londrina;Horizonte;Dengue grave;Cura;DENV-1;Surto;Sim;11;Sim;Não
+C647107;26/03/2024;21/03/2024;2024;3;PA;Santarém;Jardim Europa;Dengue clássico;Cura;DENV-2;Surto;Não;5;Não;Não
+C970242;06/12/2023;24/11/2023;2023;12;ES;Cariacica;Santa Cruz;Dengue grave;Cura;Não identificado;Surto;Sim;12;Sim;Não
+C221622;30/04/2014;17/04/2014;2014;4;SC;São José;Jardim Europa;Dengue clássico;Cura;DENV-2;Individual;Não;13;Não;Não
+C949220;12/12/2013;05/12/2013;2013;12;SP;Campinas;Alto da Serra;Dengue c/ sinais de alarme;Em tratamento;DENV-3;Individual;Sim;7;Sim;Não
+C068943;29/10/2021;17/10/2021;2021;10;MT;Cuiabá;Residencial;Dengue clássico;Cura;Não identificado;Individual;Não;12;Não;Não
+C589928;16/01/2005;07/01/2005;2005;1;CE;Caucaia;Boa Vista;Descartado;Em tratamento;DENV-2;Individual;Não;9;Não;Não
+C212248;10/07/2017;28/06/2017;2017;7;PR;Maringá;São João;Descartado;Cura;DENV-1;Surto;Não;12;Não;Não
+C422714;29/01/2005;24/01/2005;2005;1;PA;Santarém;Residencial;Dengue grave;Cura;DENV-3;Surto;Sim;5;Sim;Não
+C725393;06/08/2001;24/07/2001;2001;8;SP;Bauru;Marginal;Descartado;Cura;Não identificado;Individual;Não;13;Não;Não
+C939728;11/11/2019;05/11/2019;2019;11;PA;Ananindeua;Baixada;Dengue clássico;Cura;DENV-2;Surto;Não;6;Não;Não
+C894487;04/04/2018;23/03/2018;2018;4;MT;Rondonópolis;Marginal;Dengue clássico;Cura;DENV-1;Individual;Não;12;Não;Não
+C753676;28/12/2002;23/12/2002;2002;12;GO;Anápolis;Planalto;Dengue c/ sinais de alarme;Ignorado;DENV-2;Surto;Sim;5;Sim;Não
+C015987;24/12/2017;21/12/2017;2017;12;PR;Londrina;Centro;Descartado;Cura;Não identificado;Surto;Não;3;Não;Não
+C687141;29/06/2021;16/06/2021;2021;6;PR;Maringá;Vila Real;Descartado;Cura;DENV-4;Individual;Não;13;Não;Não
+C714420;19/04/2010;05/04/2010;2010;4;SP;São Paulo;Marginal;Dengue clássico;Óbito;DENV-3;Individual;Não;14;Não;Sim
+C171872;09/08/2023;03/08/2023;2023;8;AM;Manaus;Centro;Dengue c/ sinais de alarme;Óbito;DENV-4;Surto;Sim;6;Sim;Sim
+C117092;17/04/2009;08/04/2009;2009;4;MG;Juiz de Fora;Baixada;Dengue clássico;Cura;DENV-4;Individual;Não;9;Não;Não
+C366777;21/07/2020;20/07/2020;2020;7;PE;Paulista;Parque Industrial;Dengue clássico;Óbito;DENV-3;Individual;Não;1;Não;Sim
+C999570;08/05/2002;03/05/2002;2002;5;RJ;Petrópolis;Centro;Dengue clássico;Óbito;DENV-3;Surto;Não;5;Não;Sim
+C525981;22/08/2016;20/08/2016;2016;8;BA;Camaçari;Parque Industrial;Dengue grave;Cura;DENV-3;Surto;Sim;2;Sim;Não

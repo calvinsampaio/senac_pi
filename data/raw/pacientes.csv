@@ -1,0 +1,502 @@
+  SINAN — Perfil dos Pacientes  |  Brasil 2000–2024  (Dados Fictícios);;;;;;;;;;;;;;;
+ID_PACIENTE;ID_CASO;DT_NASCIMENTO;IDADE;FAIXA_ETARIA;SEXO;RACA_COR;ESCOLARIDADE;OCUPACAO;UF_RESIDENCIA;MUNICIPIO_RES;ZONA;GESTANTE;COMORBIDADE;HOSPITALIZADO;DIAS_INTERNACAO
+P990885;C021510;23/09/2019;5;5-11a;M;Parda;Fundamental completo;Desempregado;AM;Itacoatiara;Urbana;Não;Nenhuma;Não;0
+P734649;C610990;14/11/2015;9;5-11a;F;Indígena;Fundamental incompleto;Servidor público;SC;São José;Urbana;Não;Nenhuma;Sim;10
+P176999;C596751;12/12/1950;74;60+a;M;Indígena;Sem instrução;Desempregado;PA;Castanhal;Rural;Não;Imunossupressão;Sim;12
+P227347;C127833;11/08/1958;66;60+a;F;Indígena;Sem instrução;Autônomo;MT;Tangará da Serra;Rural;Não;Diabetes;Não;0
+P296667;C314514;08/07/1967;57;45-59a;I;Parda;Fundamental incompleto;Aposentado;AM;Parintins;Urbana;Não;Nenhuma;Não;0
+P046918;C993457;25/05/1971;53;45-59a;I;Branca;Fundamental completo;Servidor público;MG;Belo Horizonte;Urbana;Não;Obesidade;Não;0
+P344482;C411799;24/02/1946;78;60+a;M;Branca;Fundamental incompleto;Estudante;AM;Coari;Periurbana;Não;Nenhuma;Não;0
+P590235;C858433;15/11/1938;86;60+a;F;Parda;Fundamental incompleto;Estudante;AM;Itacoatiara;Urbana;Não;Cardiopatia;Não;0
+P248299;C796128;20/10/1989;35;30-44a;F;Parda;Sem instrução;Desempregado;CE;Sobral;Urbana;Não;Hipertensão;Sim;5
+P294414;C979184;01/04/1956;68;60+a;F;Branca;Fundamental incompleto;Autônomo;RS;Santa Maria;Urbana;Não;Nenhuma;Não;0
+P760680;C175158;03/12/1996;28;18-29a;F;Ignorado;Sem instrução;Dona de casa;PE;Recife;Urbana;Não;Cardiopatia;Sim;11
+P414160;C572446;28/07/1949;75;60+a;M;Ignorado;Fundamental incompleto;Estudante;ES;Vila Velha;Rural;Não;Diabetes;Sim;3
+P613224;C733401;21/07/1946;78;60+a;I;Preta;Médio completo;Aposentado;GO;Anápolis;Urbana;Não;Diabetes;Não;0
+P318886;C602284;15/03/2010;14;12-17a;F;Indígena;Fundamental completo;Autônomo;ES;Cariacica;Urbana;Não;Nenhuma;Não;0
+P738345;C126963;13/07/1968;56;45-59a;F;Indígena;Superior completo;Estudante;CE;Maracanaú;Urbana;Não;Nenhuma;Não;0
+P531158;C289327;11/12/2013;11;5-11a;F;Branca;Sem instrução;Servidor público;PR;Ponta Grossa;Urbana;Não;Nenhuma;Não;0
+P327221;C761720;13/09/2011;13;12-17a;F;Branca;Superior completo;Dona de casa;PR;Cascavel;Rural;Não;Nenhuma;Não;0
+P874734;C095342;05/10/1955;69;60+a;M;Amarela;Superior completo;Autônomo;SP;São Paulo;Rural;Não;Imunossupressão;Sim;10
+P774507;C441316;13/04/1960;64;60+a;M;Branca;Sem instrução;Desempregado;BA;Itabuna;Urbana;Não;Obesidade;Não;0
+P752723;C313540;03/04/1949;75;60+a;M;Ignorado;Fundamental incompleto;Servidor público;ES;Cariacica;Periurbana;Não;Imunossupressão;Não;0
+P577940;C105118;11/08/1955;69;60+a;M;Branca;Sem instrução;Aposentado;PR;Ponta Grossa;Rural;Não;Cardiopatia;Não;0
+P197823;C851268;24/03/1962;62;60+a;I;Ignorado;Fundamental completo;Desempregado;MG;Montes Claros;Periurbana;Não;Imunossupressão;Sim;5
+P804109;C316530;11/04/1965;59;45-59a;M;Amarela;Superior completo;Empregado CLT;BA;Camaçari;Urbana;Não;Nenhuma;Não;0
+P536425;C601722;21/06/1996;28;18-29a;M;Branca;Fundamental incompleto;Servidor público;PE;Paulista;Periurbana;Não;Diabetes;Sim;7
+P692022;C961400;25/10/1982;42;30-44a;I;Branca;Fundamental incompleto;Desempregado;AM;Manacapuru;Rural;Não;Hipertensão;Não;0
+P343558;C899878;17/05/1983;41;30-44a;M;Indígena;Médio completo;Aposentado;CE;Maracanaú;Urbana;Não;Diabetes;Não;0
+P873468;C913991;21/07/1953;71;60+a;F;Preta;Superior completo;Empregado CLT;MT;Cuiabá;Urbana;Não;Nenhuma;Sim;6
+P024062;C698899;12/02/1982;42;30-44a;F;Ignorado;Médio completo;Aposentado;AM;Itacoatiara;Urbana;Não;Nenhuma;Não;0
+P180814;C738286;12/01/2011;13;12-17a;M;Ignorado;Sem instrução;Autônomo;MA;Codó;Urbana;Não;Nenhuma;Não;0
+P486085;C704215;12/12/1949;75;60+a;I;Parda;Ignorado;Dona de casa;RS;Caxias do Sul;Urbana;Não;Nenhuma;Não;0
+P541071;C597723;04/06/1953;71;60+a;F;Branca;Ignorado;Empregado CLT;BA;Vitória da Conquista;Urbana;Não;Obesidade;Não;0
+P548219;C240337;02/05/2008;16;12-17a;F;Indígena;Médio completo;Servidor público;SC;Joinville;Urbana;Não;Nenhuma;Não;0
+P662395;C725222;05/07/1950;74;60+a;I;Branca;Superior completo;Dona de casa;SP;Santos;Urbana;Não;Diabetes;Não;0
+P313914;C391315;11/10/1965;59;45-59a;F;Branca;Médio completo;Servidor público;MA;Imperatriz;Periurbana;Não;Imunossupressão;Não;0
+P336398;C795479;14/12/1951;73;60+a;F;Amarela;Superior completo;Estudante;MA;Codó;Urbana;Não;Obesidade;Não;0
+P167007;C133462;23/10/1986;38;30-44a;I;Parda;Fundamental completo;Autônomo;PA;Ananindeua;Urbana;Não;Diabetes;Não;0
+P834346;C696877;03/07/1998;26;18-29a;M;Branca;Médio completo;Empregado CLT;MG;Uberlândia;Urbana;Não;Nenhuma;Não;0
+P690812;C350530;10/06/1973;51;45-59a;F;Parda;Fundamental incompleto;Aposentado;PR;Londrina;Urbana;Não;Imunossupressão;Não;0
+P238094;C168406;03/07/1986;38;30-44a;F;Branca;Ignorado;Servidor público;SP;Campinas;Rural;Não;Nenhuma;Não;0
+P947326;C684343;05/06/2004;20;18-29a;I;Indígena;Fundamental completo;Estudante;PR;Curitiba;Urbana;Não;Imunossupressão;Sim;11
+P951874;C021438;03/11/1975;49;45-59a;M;Ignorado;Fundamental completo;Autônomo;CE;Sobral;Rural;Não;Nenhuma;Não;0
+P420175;C315114;09/09/2021;3;<5a;M;Preta;Fundamental completo;Aposentado;PE;Olinda;Periurbana;Não;Hipertensão;Sim;1
+P678157;C363417;02/08/1952;72;60+a;M;Ignorado;Ignorado;Dona de casa;ES;Cachoeiro;Urbana;Não;Cardiopatia;Sim;3
+P760529;C261503;19/04/2010;14;12-17a;F;Parda;Ignorado;Autônomo;SC;São José;Urbana;Não;Hipertensão;Não;0
+P760272;C676445;26/01/1998;26;18-29a;F;Indígena;Médio completo;Aposentado;SP;Sorocaba;Periurbana;Não;Hipertensão;Sim;10
+P134650;C490753;12/06/1981;43;30-44a;F;Preta;Médio completo;Dona de casa;SP;Guarulhos;Rural;Não;Obesidade;Sim;12
+P772793;C539132;06/10/1945;79;60+a;I;Branca;Superior completo;Autônomo;SP;Campinas;Urbana;Não;Cardiopatia;Não;0
+P331897;C353844;14/09/1973;51;45-59a;F;Amarela;Fundamental incompleto;Servidor público;SC;Joinville;Urbana;Não;Diabetes;Não;0
+P054410;C265054;27/09/2024;0;<5a;F;Branca;Fundamental completo;Desempregado;CE;Juazeiro do Norte;Urbana;Não;Obesidade;Não;0
+P865881;C381993;22/08/1944;80;60+a;M;Preta;Sem instrução;Estudante;MG;Montes Claros;Urbana;Não;Cardiopatia;Sim;10
+P951639;C149006;22/04/1966;58;45-59a;I;Indígena;Médio completo;Servidor público;AM;Manacapuru;Rural;Não;Obesidade;Não;0
+P808870;C396471;18/12/1991;33;30-44a;M;Preta;Superior completo;Servidor público;RJ;Duque de Caxias;Urbana;Não;Nenhuma;Não;0
+P720608;C422247;22/07/1978;46;45-59a;F;Ignorado;Fundamental completo;Desempregado;GO;Aparecida de Goiânia;Urbana;Não;Nenhuma;Não;0
+P375376;C181682;17/03/2007;17;12-17a;F;Parda;Sem instrução;Servidor público;AM;Manaus;Urbana;Sim;Cardiopatia;Não;0
+P965553;C968443;01/10/2006;18;18-29a;F;Ignorado;Sem instrução;Autônomo;AM;Itacoatiara;Urbana;Não;Imunossupressão;Não;0
+P349988;C752263;09/03/1996;28;18-29a;I;Branca;Fundamental completo;Desempregado;BA;Feira de Santana;Urbana;Não;Nenhuma;Não;0
+P527198;C271922;18/12/1956;68;60+a;M;Ignorado;Fundamental incompleto;Dona de casa;BA;Itabuna;Urbana;Não;Nenhuma;Não;0
+P408070;C444055;02/05/1958;66;60+a;M;Preta;Superior completo;Estudante;RS;Caxias do Sul;Periurbana;Não;Diabetes;Sim;10
+P426342;C625365;07/11/1968;56;45-59a;I;Ignorado;Médio completo;Estudante;CE;Fortaleza;Urbana;Não;Obesidade;Não;0
+P608368;C112337;16/09/1984;40;30-44a;F;Amarela;Sem instrução;Dona de casa;MA;São Luís;Urbana;Não;Nenhuma;Não;0
+P786199;C677294;22/10/1998;26;18-29a;M;Preta;Fundamental completo;Empregado CLT;RS;Santa Maria;Urbana;Não;Cardiopatia;Sim;7
+P046142;C826280;10/08/1984;40;30-44a;F;Amarela;Médio completo;Autônomo;PE;Olinda;Periurbana;Não;Imunossupressão;Sim;7
+P347490;C669426;17/10/1997;27;18-29a;F;Amarela;Sem instrução;Estudante;PA;Ananindeua;Urbana;Não;Nenhuma;Sim;3
+P809788;C555435;12/09/1989;35;30-44a;F;Ignorado;Fundamental completo;Desempregado;MT;Rondonópolis;Periurbana;Não;Nenhuma;Não;0
+P772323;C192691;05/01/1936;88;60+a;M;Ignorado;Médio completo;Aposentado;SC;Blumenau;Rural;Não;Cardiopatia;Não;0
+P998352;C300051;02/09/2018;6;5-11a;I;Parda;Superior completo;Servidor público;PR;Ponta Grossa;Urbana;Não;Cardiopatia;Sim;7
+P891315;C477984;07/11/1946;78;60+a;M;Preta;Sem instrução;Desempregado;AM;Manacapuru;Rural;Não;Imunossupressão;Não;0
+P756289;C875113;14/06/1996;28;18-29a;M;Branca;Sem instrução;Desempregado;SP;São Paulo;Periurbana;Não;Hipertensão;Não;0
+P621929;C708919;12/09/2008;16;12-17a;M;Branca;Médio completo;Servidor público;SC;Florianópolis;Urbana;Não;Cardiopatia;Não;0
+P195551;C297394;13/08/1967;57;45-59a;M;Parda;Sem instrução;Servidor público;CE;Fortaleza;Periurbana;Não;Diabetes;Não;0
+P839848;C390634;04/09/1992;32;30-44a;F;Preta;Ignorado;Dona de casa;PE;Petrolina;Urbana;Sim;Imunossupressão;Não;0
+P140527;C268415;19/03/1993;31;30-44a;M;Parda;Ignorado;Servidor público;SP;Campinas;Urbana;Não;Nenhuma;Não;0
+P860004;C714577;16/01/2004;20;18-29a;M;Parda;Fundamental incompleto;Estudante;PE;Recife;Urbana;Não;Hipertensão;Não;0
+P848804;C823596;03/07/2013;11;5-11a;M;Branca;Médio completo;Aposentado;PE;Caruaru;Periurbana;Não;Obesidade;Não;0
+P726227;C374559;05/09/1996;28;18-29a;M;Preta;Fundamental incompleto;Autônomo;ES;Vila Velha;Rural;Não;Diabetes;Não;0
+P906823;C048189;28/12/1950;74;60+a;M;Amarela;Médio completo;Empregado CLT;PE;Caruaru;Rural;Não;Imunossupressão;Não;0
+P284566;C350369;04/08/1955;69;60+a;F;Parda;Sem instrução;Empregado CLT;AM;Itacoatiara;Rural;Não;Cardiopatia;Sim;3
+P599918;C851671;23/09/2009;15;12-17a;F;Ignorado;Fundamental completo;Desempregado;SC;Florianópolis;Periurbana;Não;Cardiopatia;Sim;7
+P911668;C297594;17/09/1952;72;60+a;M;Parda;Fundamental completo;Estudante;PR;Londrina;Rural;Não;Cardiopatia;Não;0
+P025396;C904187;16/07/1958;66;60+a;F;Parda;Médio completo;Servidor público;BA;Camaçari;Urbana;Não;Cardiopatia;Sim;5
+P147562;C123655;07/10/1974;50;45-59a;M;Ignorado;Superior completo;Aposentado;MT;Sinop;Urbana;Não;Cardiopatia;Sim;5
+P329381;C458677;18/02/1986;38;30-44a;I;Parda;Superior completo;Estudante;MT;Sinop;Urbana;Não;Obesidade;Sim;12
+P827225;C489018;08/06/1948;76;60+a;F;Parda;Superior completo;Aposentado;GO;Luziânia;Urbana;Não;Imunossupressão;Não;0
+P601860;C092576;04/05/1939;85;60+a;F;Amarela;Ignorado;Dona de casa;AM;Manacapuru;Urbana;Não;Imunossupressão;Não;0
+P867605;C090987;28/10/1966;58;45-59a;I;Preta;Fundamental completo;Servidor público;PE;Petrolina;Urbana;Não;Nenhuma;Não;0
+P272753;C438883;26/08/1989;35;30-44a;M;Indígena;Superior completo;Dona de casa;PE;Caruaru;Urbana;Não;Cardiopatia;Não;0
+P728434;C311013;03/12/2012;12;12-17a;F;Indígena;Ignorado;Dona de casa;PE;Olinda;Periurbana;Não;Cardiopatia;Não;0
+P058427;C539198;13/03/1956;68;60+a;I;Preta;Superior completo;Desempregado;BA;Itabuna;Urbana;Não;Nenhuma;Não;0
+P248922;C620206;08/01/1968;56;45-59a;I;Amarela;Médio completo;Desempregado;PE;Caruaru;Periurbana;Não;Nenhuma;Não;0
+P977982;C399339;28/03/1972;52;45-59a;I;Parda;Fundamental completo;Servidor público;AM;Parintins;Urbana;Não;Imunossupressão;Não;0
+P823798;C228445;04/03/1950;74;60+a;I;Branca;Fundamental incompleto;Estudante;PR;Cascavel;Periurbana;Não;Obesidade;Não;0
+P075977;C479924;12/01/1941;83;60+a;F;Indígena;Ignorado;Dona de casa;MA;Codó;Urbana;Não;Nenhuma;Sim;6
+P075700;C411979;14/09/1952;72;60+a;M;Parda;Sem instrução;Dona de casa;PE;Caruaru;Rural;Não;Cardiopatia;Não;0
+P481314;C202236;04/02/1982;42;30-44a;F;Branca;Fundamental completo;Aposentado;GO;Goiânia;Urbana;Não;Imunossupressão;Não;0
+P009033;C853016;02/10/2022;2;<5a;I;Amarela;Fundamental incompleto;Desempregado;PA;Santarém;Urbana;Não;Nenhuma;Não;0
+P781180;C059983;20/03/1937;87;60+a;F;Preta;Sem instrução;Autônomo;PE;Recife;Urbana;Não;Nenhuma;Não;0
+P999534;C153328;16/02/2003;21;18-29a;M;Parda;Médio completo;Estudante;AM;Coari;Urbana;Não;Nenhuma;Não;0
+P069575;C762172;25/12/1940;84;60+a;I;Ignorado;Médio completo;Aposentado;SP;Sorocaba;Rural;Não;Nenhuma;Não;0
+P397765;C093595;16/01/1962;62;60+a;M;Ignorado;Fundamental completo;Dona de casa;CE;Fortaleza;Urbana;Não;Cardiopatia;Não;0
+P875136;C909870;13/05/2018;6;5-11a;M;Parda;Médio completo;Empregado CLT;PA;Belém;Periurbana;Não;Cardiopatia;Sim;11
+P028899;C838012;13/01/2023;1;<5a;M;Ignorado;Fundamental completo;Aposentado;MT;Tangará da Serra;Periurbana;Não;Nenhuma;Não;0
+P429846;C636462;24/11/1998;26;18-29a;F;Ignorado;Sem instrução;Estudante;GO;Anápolis;Urbana;Não;Nenhuma;Não;0
+P269352;C511889;18/03/2016;8;5-11a;F;Indígena;Médio completo;Empregado CLT;RS;Canoas;Urbana;Não;Nenhuma;Não;0
+P178264;C150971;04/08/1964;60;60+a;M;Parda;Ignorado;Autônomo;PA;Belém;Urbana;Não;Diabetes;Sim;7
+P039526;C370486;28/06/2005;19;18-29a;F;Preta;Superior completo;Empregado CLT;AM;Manaus;Urbana;Não;Cardiopatia;Não;0
+P193112;C358712;22/02/2017;7;5-11a;M;Ignorado;Sem instrução;Desempregado;PA;Santarém;Periurbana;Não;Imunossupressão;Sim;12
+P924296;C484822;19/08/1941;83;60+a;F;Ignorado;Fundamental incompleto;Aposentado;RJ;Rio de Janeiro;Urbana;Não;Hipertensão;Não;0
+P488916;C248449;01/12/1977;47;45-59a;F;Amarela;Fundamental completo;Autônomo;RS;Caxias do Sul;Urbana;Não;Hipertensão;Sim;8
+P597734;C873334;17/12/2007;17;12-17a;M;Indígena;Ignorado;Aposentado;MT;Sinop;Urbana;Não;Diabetes;Sim;4
+P351463;C627514;07/01/1972;52;45-59a;M;Parda;Fundamental incompleto;Aposentado;RS;Santa Maria;Urbana;Não;Cardiopatia;Não;0
+P700808;C392128;11/08/2008;16;12-17a;I;Preta;Superior completo;Autônomo;MA;Imperatriz;Periurbana;Não;Nenhuma;Não;0
+P181194;C566282;23/06/1964;60;60+a;M;Branca;Ignorado;Empregado CLT;RS;Canoas;Rural;Não;Hipertensão;Sim;9
+P934540;C463303;16/07/2007;17;12-17a;F;Parda;Fundamental incompleto;Desempregado;RJ;Rio de Janeiro;Urbana;Não;Nenhuma;Não;0
+P394659;C325990;26/02/2005;19;18-29a;M;Preta;Fundamental incompleto;Estudante;MT;Sinop;Urbana;Não;Cardiopatia;Sim;2
+P089053;C143623;14/08/1991;33;30-44a;F;Preta;Superior completo;Servidor público;GO;Anápolis;Rural;Sim;Obesidade;Não;0
+P990635;C188103;24/06/2008;16;12-17a;F;Parda;Superior completo;Servidor público;CE;Juazeiro do Norte;Urbana;Não;Obesidade;Sim;2
+P168487;C117170;24/01/2015;9;5-11a;M;Branca;Ignorado;Estudante;PR;Curitiba;Urbana;Não;Cardiopatia;Não;0
+P187474;C758450;23/01/1998;26;18-29a;M;Parda;Fundamental completo;Empregado CLT;CE;Caucaia;Periurbana;Não;Imunossupressão;Sim;9
+P723824;C622320;23/02/1935;89;60+a;M;Ignorado;Fundamental completo;Autônomo;AM;Parintins;Urbana;Não;Diabetes;Sim;6
+P496379;C669573;12/08/2016;8;5-11a;M;Preta;Ignorado;Servidor público;RJ;Rio de Janeiro;Rural;Não;Imunossupressão;Sim;12
+P034498;C948417;11/08/1986;38;30-44a;I;Amarela;Sem instrução;Servidor público;PE;Petrolina;Urbana;Não;Diabetes;Sim;3
+P919204;C214188;05/11/1976;48;45-59a;F;Preta;Fundamental incompleto;Empregado CLT;PR;Maringá;Rural;Não;Cardiopatia;Sim;11
+P034229;C840316;28/07/1969;55;45-59a;M;Ignorado;Superior completo;Aposentado;AM;Manacapuru;Periurbana;Não;Obesidade;Sim;2
+P904423;C283997;10/09/2008;16;12-17a;F;Indígena;Fundamental completo;Desempregado;RJ;Petrópolis;Urbana;Não;Nenhuma;Não;0
+P825838;C313549;26/06/2008;16;12-17a;I;Ignorado;Fundamental completo;Estudante;GO;Aparecida de Goiânia;Rural;Não;Diabetes;Não;0
+P203657;C943828;05/12/1989;35;30-44a;F;Parda;Superior completo;Desempregado;CE;Caucaia;Urbana;Não;Nenhuma;Não;0
+P480210;C670491;26/09/2000;24;18-29a;I;Ignorado;Médio completo;Desempregado;BA;Salvador;Urbana;Não;Hipertensão;Sim;7
+P191853;C375663;09/02/1984;40;30-44a;F;Preta;Superior completo;Servidor público;AM;Manacapuru;Urbana;Não;Obesidade;Sim;10
+P071001;C592793;25/10/1983;41;30-44a;I;Amarela;Fundamental completo;Servidor público;MT;Rondonópolis;Urbana;Não;Nenhuma;Não;0
+P021782;C060664;17/01/1955;69;60+a;F;Branca;Fundamental incompleto;Servidor público;MA;Timon;Urbana;Não;Imunossupressão;Não;0
+P466505;C250753;11/06/1960;64;60+a;F;Parda;Médio completo;Empregado CLT;MG;Uberlândia;Urbana;Não;Imunossupressão;Sim;5
+P126332;C120665;20/12/1944;80;60+a;F;Amarela;Fundamental incompleto;Empregado CLT;PA;Belém;Urbana;Não;Hipertensão;Não;0
+P262534;C628820;28/12/2011;13;12-17a;M;Branca;Fundamental incompleto;Servidor público;SP;Sorocaba;Urbana;Não;Diabetes;Não;0
+P145298;C268868;24/08/1998;26;18-29a;F;Preta;Sem instrução;Autônomo;SC;Blumenau;Rural;Não;Obesidade;Não;0
+P326201;C149991;02/02/2004;20;18-29a;F;Ignorado;Ignorado;Dona de casa;CE;Sobral;Urbana;Não;Diabetes;Não;0
+P620506;C233044;04/01/2002;22;18-29a;M;Parda;Sem instrução;Desempregado;RS;Canoas;Urbana;Não;Diabetes;Não;0
+P916890;C585777;10/12/1989;35;30-44a;F;Ignorado;Sem instrução;Autônomo;MT;Cuiabá;Urbana;Não;Hipertensão;Sim;5
+P975364;C539716;27/08/1977;47;45-59a;F;Amarela;Ignorado;Desempregado;RJ;Petrópolis;Rural;Não;Nenhuma;Não;0
+P456839;C913678;09/10/2013;11;5-11a;M;Indígena;Fundamental incompleto;Servidor público;PE;Petrolina;Urbana;Não;Cardiopatia;Não;0
+P525976;C743839;04/07/2014;10;5-11a;I;Indígena;Ignorado;Servidor público;SC;São José;Rural;Não;Nenhuma;Não;0
+P881075;C110924;14/12/1980;44;30-44a;M;Parda;Superior completo;Dona de casa;ES;Cachoeiro;Urbana;Não;Diabetes;Não;0
+P860419;C605333;01/01/2021;3;<5a;F;Indígena;Superior completo;Aposentado;SC;Joinville;Periurbana;Não;Nenhuma;Não;0
+P783506;C639400;02/08/1938;86;60+a;F;Amarela;Sem instrução;Aposentado;AM;Manaus;Urbana;Não;Cardiopatia;Sim;5
+P290378;C240187;24/04/2014;10;5-11a;M;Indígena;Médio completo;Estudante;PA;Belém;Periurbana;Não;Obesidade;Sim;6
+P151480;C646904;19/12/1989;35;30-44a;F;Parda;Sem instrução;Aposentado;MG;Juiz de Fora;Urbana;Não;Nenhuma;Não;0
+P478911;C196047;06/05/2019;5;5-11a;M;Amarela;Sem instrução;Dona de casa;PR;Ponta Grossa;Periurbana;Não;Cardiopatia;Não;0
+P540293;C499811;04/09/1943;81;60+a;F;Indígena;Fundamental incompleto;Dona de casa;RS;Pelotas;Urbana;Não;Obesidade;Sim;7
+P651023;C733505;09/09/1977;47;45-59a;F;Preta;Superior completo;Desempregado;MA;Codó;Urbana;Não;Nenhuma;Não;0
+P215680;C681749;28/04/1984;40;30-44a;F;Branca;Superior completo;Empregado CLT;BA;Feira de Santana;Urbana;Não;Diabetes;Não;0
+P033173;C482949;08/06/1944;80;60+a;F;Indígena;Médio completo;Dona de casa;MT;Sinop;Urbana;Não;Imunossupressão;Sim;7
+P577702;C269386;16/05/1958;66;60+a;M;Preta;Médio completo;Desempregado;ES;Cachoeiro;Rural;Não;Imunossupressão;Não;0
+P043562;C222539;22/09/1936;88;60+a;I;Parda;Superior completo;Empregado CLT;CE;Sobral;Urbana;Não;Nenhuma;Não;0
+P678616;C752451;22/09/1982;42;30-44a;F;Ignorado;Fundamental completo;Dona de casa;BA;Feira de Santana;Urbana;Não;Imunossupressão;Não;0
+P794320;C135308;06/06/1943;81;60+a;F;Preta;Médio completo;Aposentado;ES;Cachoeiro;Periurbana;Não;Cardiopatia;Sim;8
+P641431;C179001;14/10/1959;65;60+a;M;Indígena;Fundamental completo;Empregado CLT;AM;Itacoatiara;Urbana;Não;Hipertensão;Sim;7
+P972226;C793205;22/01/1998;26;18-29a;I;Parda;Fundamental incompleto;Servidor público;RS;Canoas;Rural;Não;Nenhuma;Sim;6
+P242689;C206488;06/01/1946;78;60+a;M;Amarela;Fundamental incompleto;Empregado CLT;ES;Cachoeiro;Urbana;Não;Hipertensão;Não;0
+P363528;C475346;15/12/1972;52;45-59a;F;Amarela;Superior completo;Empregado CLT;SC;Florianópolis;Urbana;Não;Nenhuma;Não;0
+P234222;C640926;22/12/1948;76;60+a;F;Amarela;Ignorado;Servidor público;MG;Belo Horizonte;Urbana;Não;Nenhuma;Não;0
+P443292;C125551;13/06/1980;44;30-44a;M;Branca;Médio completo;Autônomo;CE;Sobral;Urbana;Não;Obesidade;Não;0
+P521148;C141086;06/12/2013;11;5-11a;M;Indígena;Ignorado;Servidor público;PR;Londrina;Urbana;Não;Nenhuma;Não;0
+P170181;C147719;06/07/1964;60;60+a;M;Parda;Sem instrução;Autônomo;BA;Itabuna;Urbana;Não;Nenhuma;Não;0
+P148263;C744771;17/01/1959;65;60+a;I;Indígena;Sem instrução;Estudante;PR;Maringá;Rural;Não;Nenhuma;Não;0
+P846575;C842918;17/08/1988;36;30-44a;F;Parda;Sem instrução;Empregado CLT;MG;Belo Horizonte;Urbana;Não;Imunossupressão;Não;0
+P472774;C571731;20/02/1986;38;30-44a;F;Parda;Médio completo;Autônomo;AM;Itacoatiara;Rural;Não;Hipertensão;Sim;6
+P098920;C436453;07/06/1965;59;45-59a;F;Indígena;Superior completo;Aposentado;CE;Maracanaú;Urbana;Não;Nenhuma;Não;0
+P917202;C504746;11/06/2016;8;5-11a;M;Preta;Fundamental completo;Estudante;RS;Canoas;Periurbana;Não;Hipertensão;Não;0
+P575918;C377617;14/08/1968;56;45-59a;I;Parda;Sem instrução;Desempregado;AM;Manaus;Rural;Não;Nenhuma;Não;0
+P548152;C900824;02/01/1996;28;18-29a;F;Branca;Fundamental incompleto;Aposentado;BA;Camaçari;Urbana;Sim;Nenhuma;Não;0
+P892588;C365685;22/02/2010;14;12-17a;F;Ignorado;Fundamental completo;Servidor público;RS;Canoas;Periurbana;Não;Cardiopatia;Não;0
+P493811;C278299;14/01/1996;28;18-29a;F;Ignorado;Superior completo;Desempregado;PR;Londrina;Urbana;Não;Hipertensão;Não;0
+P696790;C444933;11/10/1971;53;45-59a;F;Preta;Fundamental incompleto;Aposentado;CE;Maracanaú;Rural;Não;Nenhuma;Não;0
+P835581;C071489;13/04/1949;75;60+a;F;Ignorado;Ignorado;Empregado CLT;RS;Canoas;Urbana;Não;Diabetes;Sim;10
+P660130;C900097;05/01/2002;22;18-29a;F;Amarela;Médio completo;Estudante;SP;Sorocaba;Urbana;Não;Cardiopatia;Não;0
+P626606;C608668;03/09/1946;78;60+a;I;Preta;Superior completo;Autônomo;AM;Itacoatiara;Urbana;Não;Hipertensão;Sim;8
+P110511;C410765;26/04/1971;53;45-59a;F;Ignorado;Médio completo;Aposentado;MT;Sinop;Rural;Não;Cardiopatia;Sim;8
+P330883;C849784;23/05/1949;75;60+a;M;Preta;Ignorado;Dona de casa;RJ;Petrópolis;Rural;Não;Obesidade;Não;0
+P449182;C699747;06/12/1952;72;60+a;M;Ignorado;Fundamental completo;Dona de casa;MT;Rondonópolis;Urbana;Não;Nenhuma;Não;0
+P216872;C355917;01/06/1977;47;45-59a;M;Ignorado;Sem instrução;Aposentado;PR;Cascavel;Periurbana;Não;Obesidade;Não;0
+P674899;C623543;02/08/1956;68;60+a;F;Ignorado;Sem instrução;Servidor público;PA;Santarém;Urbana;Não;Cardiopatia;Sim;10
+P200085;C890877;09/07/1992;32;30-44a;M;Preta;Superior completo;Dona de casa;MT;Tangará da Serra;Urbana;Não;Diabetes;Sim;8
+P937160;C432409;22/09/1997;27;18-29a;I;Ignorado;Fundamental completo;Empregado CLT;MA;Codó;Urbana;Não;Hipertensão;Não;0
+P729660;C119907;14/03/1971;53;45-59a;M;Preta;Fundamental incompleto;Estudante;MT;Rondonópolis;Rural;Não;Nenhuma;Não;0
+P673018;C520987;15/09/1960;64;60+a;I;Branca;Sem instrução;Empregado CLT;PE;Recife;Urbana;Não;Nenhuma;Não;0
+P333715;C821677;18/12/1958;66;60+a;M;Branca;Ignorado;Empregado CLT;PE;Caruaru;Rural;Não;Obesidade;Não;0
+P039964;C898085;21/06/1975;49;45-59a;F;Indígena;Sem instrução;Desempregado;PA;Marabá;Urbana;Não;Diabetes;Sim;4
+P083382;C803912;24/09/1954;70;60+a;F;Amarela;Fundamental incompleto;Autônomo;MA;Timon;Urbana;Não;Nenhuma;Não;0
+P402101;C551197;12/09/2015;9;5-11a;M;Preta;Sem instrução;Empregado CLT;SC;São José;Periurbana;Não;Obesidade;Sim;5
+P588556;C252870;02/04/2014;10;5-11a;F;Amarela;Sem instrução;Dona de casa;ES;Cachoeiro;Urbana;Não;Hipertensão;Não;0
+P443525;C570165;04/02/2007;17;12-17a;I;Branca;Ignorado;Servidor público;BA;Salvador;Urbana;Não;Nenhuma;Não;0
+P857842;C463821;06/03/1934;90;60+a;I;Indígena;Médio completo;Desempregado;MA;Imperatriz;Urbana;Não;Diabetes;Sim;9
+P941211;C616109;23/02/1946;78;60+a;F;Ignorado;Sem instrução;Dona de casa;BA;Feira de Santana;Urbana;Não;Hipertensão;Não;0
+P780121;C778346;09/04/2007;17;12-17a;M;Ignorado;Fundamental completo;Aposentado;MT;Sinop;Urbana;Não;Nenhuma;Não;0
+P424178;C752122;12/07/1998;26;18-29a;M;Parda;Médio completo;Servidor público;SC;Joinville;Urbana;Não;Diabetes;Não;0
+P624312;C902429;15/10/2016;8;5-11a;F;Indígena;Ignorado;Empregado CLT;MA;Codó;Urbana;Não;Hipertensão;Não;0
+P340918;C229985;23/05/1958;66;60+a;M;Indígena;Fundamental incompleto;Dona de casa;BA;Vitória da Conquista;Rural;Não;Hipertensão;Não;0
+P177462;C148650;11/01/2005;19;18-29a;I;Amarela;Superior completo;Empregado CLT;PA;Belém;Urbana;Não;Imunossupressão;Sim;4
+P561828;C249069;16/06/1981;43;30-44a;M;Amarela;Ignorado;Empregado CLT;PE;Recife;Urbana;Não;Cardiopatia;Não;0
+P496880;C960257;04/06/1997;27;18-29a;M;Parda;Sem instrução;Aposentado;GO;Aparecida de Goiânia;Urbana;Não;Hipertensão;Sim;10
+P430592;C433460;24/12/1940;84;60+a;M;Branca;Ignorado;Desempregado;PA;Ananindeua;Urbana;Não;Obesidade;Não;0
+P121462;C119268;27/03/2000;24;18-29a;M;Preta;Ignorado;Aposentado;MT;Rondonópolis;Urbana;Não;Diabetes;Não;0
+P568172;C112825;13/08/2004;20;18-29a;M;Indígena;Ignorado;Desempregado;GO;Goiânia;Periurbana;Não;Nenhuma;Não;0
+P672227;C704359;06/08/1982;42;30-44a;I;Indígena;Sem instrução;Servidor público;RS;Santa Maria;Urbana;Não;Diabetes;Não;0
+P367801;C872085;23/12/1995;29;18-29a;I;Branca;Fundamental incompleto;Desempregado;RS;Porto Alegre;Periurbana;Não;Nenhuma;Não;0
+P804817;C601446;03/09/1957;67;60+a;F;Branca;Ignorado;Servidor público;RJ;Nova Iguaçu;Urbana;Não;Hipertensão;Sim;3
+P776870;C176064;28/05/1937;87;60+a;F;Branca;Médio completo;Servidor público;MA;Imperatriz;Periurbana;Não;Nenhuma;Sim;1
+P936752;C215165;24/11/2017;7;5-11a;I;Preta;Médio completo;Desempregado;MT;Rondonópolis;Urbana;Não;Nenhuma;Não;0
+P540068;C360721;20/09/1988;36;30-44a;M;Amarela;Superior completo;Estudante;MG;Uberlândia;Urbana;Não;Cardiopatia;Sim;1
+P873076;C024856;08/09/1990;34;30-44a;F;Branca;Superior completo;Servidor público;CE;Caucaia;Periurbana;Não;Nenhuma;Não;0
+P258972;C796548;09/01/2016;8;5-11a;M;Parda;Superior completo;Empregado CLT;MG;Uberlândia;Rural;Não;Nenhuma;Não;0
+P066215;C674124;03/11/1957;67;60+a;F;Ignorado;Fundamental incompleto;Autônomo;GO;Aparecida de Goiânia;Periurbana;Não;Hipertensão;Sim;11
+P039619;C328177;25/05/2011;13;12-17a;F;Preta;Fundamental completo;Desempregado;CE;Caucaia;Urbana;Não;Nenhuma;Não;0
+P859590;C212658;03/11/2022;2;<5a;F;Preta;Fundamental completo;Dona de casa;BA;Feira de Santana;Urbana;Não;Imunossupressão;Sim;5
+P692229;C815581;22/01/1935;89;60+a;F;Ignorado;Fundamental incompleto;Servidor público;MA;Codó;Urbana;Não;Nenhuma;Não;0
+P756156;C124328;23/02/2013;11;5-11a;I;Branca;Ignorado;Estudante;PR;Curitiba;Urbana;Não;Obesidade;Não;0
+P877509;C208534;25/08/1960;64;60+a;F;Indígena;Fundamental incompleto;Servidor público;RS;Santa Maria;Periurbana;Não;Imunossupressão;Sim;9
+P859998;C636380;13/12/1993;31;30-44a;F;Indígena;Sem instrução;Servidor público;PA;Belém;Urbana;Não;Obesidade;Sim;5
+P530191;C812612;10/10/1943;81;60+a;M;Preta;Fundamental completo;Autônomo;SC;Chapecó;Rural;Não;Hipertensão;Sim;7
+P673434;C706117;23/01/1992;32;30-44a;F;Branca;Sem instrução;Empregado CLT;RJ;Rio de Janeiro;Urbana;Não;Imunossupressão;Sim;6
+P736092;C972304;13/07/1978;46;45-59a;I;Indígena;Fundamental incompleto;Aposentado;PA;Ananindeua;Periurbana;Não;Nenhuma;Não;0
+P982913;C579732;14/08/1944;80;60+a;I;Ignorado;Superior completo;Dona de casa;RJ;Duque de Caxias;Periurbana;Não;Nenhuma;Não;0
+P360859;C502597;08/04/2019;5;5-11a;F;Amarela;Fundamental completo;Desempregado;MG;Juiz de Fora;Urbana;Não;Nenhuma;Sim;11
+P867767;C805175;20/10/1934;90;60+a;F;Ignorado;Superior completo;Empregado CLT;CE;Sobral;Urbana;Não;Imunossupressão;Não;0
+P898188;C277459;01/05/2011;13;12-17a;I;Branca;Médio completo;Desempregado;PE;Paulista;Urbana;Não;Hipertensão;Não;0
+P047397;C526632;21/07/2005;19;18-29a;M;Indígena;Fundamental incompleto;Dona de casa;PA;Marabá;Periurbana;Não;Obesidade;Não;0
+P954087;C475160;12/01/1988;36;30-44a;F;Indígena;Médio completo;Desempregado;PR;Curitiba;Rural;Não;Nenhuma;Não;0
+P808878;C339187;27/02/1944;80;60+a;M;Amarela;Superior completo;Empregado CLT;PE;Petrolina;Urbana;Não;Nenhuma;Não;0
+P170656;C939193;21/05/1959;65;60+a;M;Parda;Sem instrução;Estudante;AM;Itacoatiara;Urbana;Não;Nenhuma;Não;0
+P226834;C785896;02/01/1982;42;30-44a;M;Ignorado;Fundamental incompleto;Estudante;SC;Chapecó;Urbana;Não;Imunossupressão;Não;0
+P741486;C535087;16/01/1990;34;30-44a;F;Amarela;Médio completo;Estudante;ES;Serra;Urbana;Não;Hipertensão;Sim;1
+P140193;C929449;01/05/2016;8;5-11a;F;Amarela;Sem instrução;Empregado CLT;AM;Coari;Urbana;Não;Hipertensão;Sim;4
+P256145;C312062;06/10/2014;10;5-11a;M;Preta;Superior completo;Estudante;MT;Cuiabá;Urbana;Não;Imunossupressão;Sim;7
+P029222;C141147;05/01/1983;41;30-44a;F;Ignorado;Superior completo;Empregado CLT;SC;Chapecó;Urbana;Não;Nenhuma;Não;0
+P159157;C476248;03/11/2004;20;18-29a;F;Indígena;Fundamental incompleto;Estudante;RJ;Rio de Janeiro;Periurbana;Não;Nenhuma;Não;0
+P907574;C694749;14/06/1937;87;60+a;M;Parda;Médio completo;Desempregado;MG;Montes Claros;Urbana;Não;Cardiopatia;Sim;8
+P816319;C660399;13/01/1978;46;45-59a;I;Ignorado;Fundamental completo;Aposentado;SC;Florianópolis;Periurbana;Não;Nenhuma;Não;0
+P159795;C562657;25/11/1958;66;60+a;M;Branca;Fundamental incompleto;Empregado CLT;MG;Belo Horizonte;Urbana;Não;Nenhuma;Não;0
+P652183;C756624;23/10/2020;4;<5a;M;Indígena;Superior completo;Aposentado;SC;Blumenau;Urbana;Não;Imunossupressão;Não;0
+P591943;C067646;06/06/2013;11;5-11a;M;Amarela;Médio completo;Desempregado;GO;Rio Verde;Urbana;Não;Imunossupressão;Não;0
+P151906;C353162;17/07/1951;73;60+a;F;Branca;Ignorado;Autônomo;SC;Chapecó;Urbana;Não;Nenhuma;Não;0
+P012573;C329351;24/07/1975;49;45-59a;I;Preta;Superior completo;Autônomo;MT;Rondonópolis;Urbana;Não;Cardiopatia;Não;0
+P295951;C426917;22/03/1943;81;60+a;I;Ignorado;Médio completo;Empregado CLT;MT;Várzea Grande;Urbana;Não;Hipertensão;Não;0
+P573295;C533942;13/03/1951;73;60+a;I;Amarela;Superior completo;Autônomo;CE;Caucaia;Urbana;Não;Diabetes;Não;0
+P616559;C144057;10/11/1962;62;60+a;F;Indígena;Fundamental incompleto;Autônomo;AM;Itacoatiara;Urbana;Não;Diabetes;Sim;5
+P331738;C848524;10/07/1998;26;18-29a;M;Preta;Sem instrução;Estudante;RJ;Nova Iguaçu;Periurbana;Não;Cardiopatia;Sim;2
+P034691;C540714;26/11/1935;89;60+a;M;Preta;Fundamental completo;Empregado CLT;BA;Feira de Santana;Urbana;Não;Hipertensão;Não;0
+P959749;C854752;28/09/1957;67;60+a;F;Parda;Fundamental incompleto;Aposentado;SC;Chapecó;Urbana;Não;Imunossupressão;Sim;3
+P376119;C998431;18/05/1939;85;60+a;F;Branca;Sem instrução;Estudante;PA;Santarém;Urbana;Não;Imunossupressão;Não;0
+P188878;C003026;08/11/1977;47;45-59a;I;Indígena;Ignorado;Empregado CLT;PR;Maringá;Urbana;Não;Diabetes;Sim;4
+P944892;C464961;17/09/1988;36;30-44a;I;Branca;Fundamental incompleto;Autônomo;BA;Vitória da Conquista;Periurbana;Não;Imunossupressão;Sim;10
+P587102;C180303;07/05/1977;47;45-59a;M;Branca;Sem instrução;Desempregado;GO;Aparecida de Goiânia;Urbana;Não;Diabetes;Não;0
+P145047;C843736;07/03/1962;62;60+a;I;Amarela;Fundamental incompleto;Aposentado;CE;Juazeiro do Norte;Urbana;Não;Obesidade;Sim;9
+P764857;C351414;05/06/2020;4;<5a;I;Branca;Médio completo;Dona de casa;SC;Chapecó;Urbana;Não;Nenhuma;Não;0
+P931556;C789776;21/10/1997;27;18-29a;I;Indígena;Sem instrução;Dona de casa;ES;Cariacica;Urbana;Não;Nenhuma;Não;0
+P258253;C446782;08/03/1954;70;60+a;M;Amarela;Fundamental completo;Empregado CLT;ES;Cachoeiro;Urbana;Não;Cardiopatia;Não;0
+P488411;C002945;19/05/1991;33;30-44a;F;Amarela;Ignorado;Estudante;AM;Itacoatiara;Urbana;Não;Nenhuma;Não;0
+P870737;C851825;18/10/2007;17;12-17a;I;Indígena;Ignorado;Aposentado;MA;Caxias;Periurbana;Não;Diabetes;Sim;1
+P259797;C800923;12/08/1952;72;60+a;M;Branca;Superior completo;Servidor público;PA;Castanhal;Periurbana;Não;Cardiopatia;Não;0
+P907619;C976012;12/02/1966;58;45-59a;M;Ignorado;Superior completo;Empregado CLT;PE;Recife;Urbana;Não;Diabetes;Não;0
+P509101;C121674;14/10/2024;0;<5a;F;Amarela;Ignorado;Empregado CLT;AM;Parintins;Urbana;Não;Nenhuma;Não;0
+P117476;C979167;04/02/1938;86;60+a;M;Branca;Fundamental completo;Desempregado;RJ;Petrópolis;Urbana;Não;Imunossupressão;Não;0
+P887172;C127661;18/04/1981;43;30-44a;M;Preta;Sem instrução;Desempregado;CE;Maracanaú;Urbana;Não;Nenhuma;Não;0
+P573978;C076826;13/05/1948;76;60+a;M;Indígena;Fundamental completo;Empregado CLT;MG;Uberlândia;Periurbana;Não;Nenhuma;Não;0
+P433339;C209870;15/04/2012;12;12-17a;M;Amarela;Sem instrução;Aposentado;MA;São Luís;Urbana;Não;Nenhuma;Não;0
+P507948;C021269;08/08/2004;20;18-29a;I;Preta;Fundamental completo;Autônomo;PE;Paulista;Urbana;Não;Obesidade;Sim;3
+P694496;C383046;23/12/1996;28;18-29a;F;Preta;Fundamental completo;Autônomo;SC;Florianópolis;Rural;Sim;Nenhuma;Não;0
+P241577;C500975;16/05/1993;31;30-44a;M;Branca;Médio completo;Aposentado;SC;Joinville;Urbana;Não;Nenhuma;Não;0
+P586410;C797410;14/03/1962;62;60+a;I;Amarela;Sem instrução;Empregado CLT;PR;Curitiba;Urbana;Não;Nenhuma;Não;0
+P411043;C864754;02/02/1982;42;30-44a;F;Parda;Sem instrução;Desempregado;MA;Imperatriz;Urbana;Não;Hipertensão;Não;0
+P942438;C055864;20/04/1939;85;60+a;F;Branca;Sem instrução;Autônomo;PE;Caruaru;Rural;Não;Nenhuma;Não;0
+P705612;C065590;11/05/2012;12;12-17a;I;Ignorado;Superior completo;Servidor público;CE;Maracanaú;Urbana;Não;Nenhuma;Não;0
+P605654;C975420;22/04/1984;40;30-44a;M;Amarela;Superior completo;Aposentado;AM;Manaus;Urbana;Não;Cardiopatia;Sim;10
+P302204;C221317;18/10/1976;48;45-59a;F;Indígena;Ignorado;Desempregado;SC;São José;Periurbana;Não;Nenhuma;Não;0
+P149604;C585100;20/02/1952;72;60+a;F;Parda;Ignorado;Dona de casa;BA;Itabuna;Urbana;Não;Nenhuma;Sim;5
+P755874;C119975;26/09/2012;12;12-17a;M;Ignorado;Superior completo;Autônomo;MT;Rondonópolis;Periurbana;Não;Diabetes;Sim;12
+P198572;C993950;13/09/2015;9;5-11a;F;Branca;Fundamental completo;Desempregado;SP;Santos;Urbana;Não;Hipertensão;Não;0
+P305060;C186575;22/08/1984;40;30-44a;M;Amarela;Superior completo;Desempregado;CE;Maracanaú;Urbana;Não;Nenhuma;Não;0
+P521905;C144524;28/11/1950;74;60+a;F;Ignorado;Ignorado;Desempregado;MA;Timon;Periurbana;Não;Nenhuma;Não;0
+P064683;C579425;04/06/1976;48;45-59a;F;Parda;Sem instrução;Aposentado;ES;Serra;Urbana;Não;Imunossupressão;Sim;11
+P378451;C557255;13/02/1981;43;30-44a;M;Indígena;Fundamental incompleto;Desempregado;MG;Montes Claros;Urbana;Não;Nenhuma;Não;0
+P602285;C773758;13/05/2007;17;12-17a;F;Parda;Ignorado;Aposentado;RS;Canoas;Urbana;Não;Obesidade;Sim;1
+P025038;C019231;14/12/1964;60;60+a;M;Branca;Superior completo;Estudante;ES;Vila Velha;Rural;Não;Cardiopatia;Sim;4
+P497712;C576597;10/12/2000;24;18-29a;F;Amarela;Médio completo;Servidor público;PE;Recife;Periurbana;Sim;Imunossupressão;Sim;12
+P869695;C658293;15/02/1990;34;30-44a;F;Indígena;Superior completo;Aposentado;MG;Belo Horizonte;Urbana;Não;Nenhuma;Não;0
+P980115;C187929;10/10/1976;48;45-59a;M;Ignorado;Sem instrução;Autônomo;RS;Santa Maria;Urbana;Não;Cardiopatia;Sim;5
+P782347;C152304;22/07/2014;10;5-11a;M;Branca;Sem instrução;Desempregado;RJ;Duque de Caxias;Periurbana;Não;Diabetes;Não;0
+P629864;C434189;19/09/1986;38;30-44a;F;Preta;Médio completo;Servidor público;BA;Feira de Santana;Urbana;Não;Hipertensão;Não;0
+P327801;C837878;01/09/1981;43;30-44a;I;Parda;Médio completo;Autônomo;MA;Timon;Urbana;Não;Obesidade;Não;0
+P094811;C174946;11/11/1974;50;45-59a;I;Preta;Médio completo;Empregado CLT;SP;São Paulo;Urbana;Não;Cardiopatia;Sim;1
+P909882;C769095;04/01/1975;49;45-59a;M;Branca;Médio completo;Desempregado;AM;Manaus;Periurbana;Não;Nenhuma;Não;0
+P594708;C494218;05/09/1961;63;60+a;M;Branca;Fundamental incompleto;Dona de casa;CE;Maracanaú;Urbana;Não;Nenhuma;Não;0
+P346785;C438199;17/04/2018;6;5-11a;F;Parda;Fundamental completo;Empregado CLT;RS;Caxias do Sul;Urbana;Não;Diabetes;Não;0
+P064336;C311819;17/04/1936;88;60+a;F;Parda;Ignorado;Aposentado;MT;Tangará da Serra;Urbana;Não;Hipertensão;Sim;5
+P932666;C111856;24/12/1946;78;60+a;F;Branca;Médio completo;Autônomo;PR;Cascavel;Urbana;Não;Nenhuma;Não;0
+P713993;C582832;20/02/2017;7;5-11a;F;Preta;Sem instrução;Estudante;MT;Tangará da Serra;Urbana;Não;Diabetes;Não;0
+P312992;C482530;16/08/1974;50;45-59a;I;Indígena;Superior completo;Empregado CLT;PA;Belém;Rural;Não;Hipertensão;Sim;7
+P595253;C659578;21/01/2011;13;12-17a;F;Ignorado;Superior completo;Estudante;GO;Luziânia;Urbana;Não;Diabetes;Não;0
+P413007;C573229;05/12/1950;74;60+a;F;Indígena;Ignorado;Empregado CLT;PE;Petrolina;Periurbana;Não;Nenhuma;Não;0
+P165091;C821897;08/04/1958;66;60+a;I;Indígena;Fundamental incompleto;Empregado CLT;MA;Imperatriz;Urbana;Não;Nenhuma;Não;0
+P063419;C566584;06/01/2010;14;12-17a;M;Amarela;Sem instrução;Estudante;RJ;Rio de Janeiro;Periurbana;Não;Nenhuma;Não;0
+P259660;C504478;13/06/2000;24;18-29a;M;Ignorado;Fundamental incompleto;Empregado CLT;RJ;Nova Iguaçu;Urbana;Não;Hipertensão;Sim;12
+P708413;C899540;27/06/1949;75;60+a;M;Branca;Ignorado;Estudante;BA;Camaçari;Rural;Não;Nenhuma;Sim;12
+P338778;C990433;03/05/1970;54;45-59a;M;Indígena;Fundamental completo;Servidor público;CE;Maracanaú;Periurbana;Não;Nenhuma;Não;0
+P215561;C675555;01/10/1958;66;60+a;F;Ignorado;Superior completo;Estudante;MA;São Luís;Rural;Não;Diabetes;Não;0
+P385805;C191873;12/02/1946;78;60+a;M;Ignorado;Superior completo;Desempregado;PA;Marabá;Periurbana;Não;Cardiopatia;Não;0
+P959973;C591420;10/01/1976;48;45-59a;M;Ignorado;Fundamental incompleto;Aposentado;SC;Joinville;Urbana;Não;Nenhuma;Não;0
+P659411;C935488;04/02/2001;23;18-29a;I;Preta;Ignorado;Dona de casa;CE;Sobral;Urbana;Não;Nenhuma;Não;0
+P371818;C387070;12/09/2011;13;12-17a;F;Amarela;Fundamental incompleto;Dona de casa;BA;Feira de Santana;Urbana;Não;Cardiopatia;Não;0
+P895968;C820469;06/08/2018;6;5-11a;M;Indígena;Fundamental incompleto;Empregado CLT;CE;Juazeiro do Norte;Urbana;Não;Nenhuma;Não;0
+P035690;C596881;05/02/1994;30;30-44a;F;Ignorado;Sem instrução;Autônomo;GO;Rio Verde;Urbana;Sim;Cardiopatia;Sim;2
+P104856;C049868;12/12/2019;5;5-11a;M;Indígena;Fundamental completo;Desempregado;CE;Fortaleza;Urbana;Não;Obesidade;Sim;10
+P283524;C180679;05/11/1995;29;18-29a;I;Amarela;Fundamental incompleto;Servidor público;GO;Anápolis;Urbana;Não;Obesidade;Não;0
+P035621;C429774;25/04/2014;10;5-11a;M;Indígena;Fundamental incompleto;Autônomo;PR;Cascavel;Urbana;Não;Nenhuma;Não;0
+P452722;C513183;28/07/2017;7;5-11a;F;Ignorado;Fundamental completo;Aposentado;CE;Sobral;Urbana;Não;Imunossupressão;Sim;7
+P430915;C700993;02/06/1982;42;30-44a;F;Branca;Médio completo;Dona de casa;PA;Belém;Urbana;Não;Hipertensão;Não;0
+P945366;C187436;04/10/1939;85;60+a;M;Parda;Fundamental incompleto;Dona de casa;GO;Goiânia;Urbana;Não;Nenhuma;Não;0
+P986197;C939087;11/04/1977;47;45-59a;F;Ignorado;Sem instrução;Estudante;CE;Sobral;Urbana;Não;Nenhuma;Não;0
+P340804;C115037;06/12/1997;27;18-29a;F;Ignorado;Fundamental completo;Dona de casa;RJ;Nova Iguaçu;Urbana;Não;Hipertensão;Não;0
+P697065;C039845;02/02/1939;85;60+a;M;Ignorado;Fundamental completo;Estudante;RS;Caxias do Sul;Urbana;Não;Imunossupressão;Sim;11
+P153796;C303044;04/10/1944;80;60+a;M;Indígena;Sem instrução;Dona de casa;PA;Santarém;Urbana;Não;Cardiopatia;Não;0
+P062426;C796525;02/09/1970;54;45-59a;M;Preta;Fundamental incompleto;Estudante;CE;Sobral;Urbana;Não;Imunossupressão;Não;0
+P130493;C132425;25/07/1966;58;45-59a;M;Ignorado;Fundamental incompleto;Dona de casa;CE;Maracanaú;Periurbana;Não;Cardiopatia;Sim;4
+P568802;C695420;10/04/1996;28;18-29a;F;Branca;Sem instrução;Aposentado;GO;Aparecida de Goiânia;Rural;Não;Nenhuma;Sim;1
+P479594;C880554;01/10/2007;17;12-17a;F;Parda;Médio completo;Estudante;MA;Imperatriz;Urbana;Não;Cardiopatia;Não;0
+P135044;C050403;26/11/1971;53;45-59a;M;Parda;Fundamental incompleto;Dona de casa;SC;Joinville;Periurbana;Não;Nenhuma;Não;0
+P660951;C540301;23/07/2000;24;18-29a;M;Branca;Superior completo;Aposentado;SP;Campinas;Urbana;Não;Nenhuma;Não;0
+P916357;C779476;18/09/1982;42;30-44a;M;Parda;Sem instrução;Desempregado;PA;Santarém;Rural;Não;Cardiopatia;Não;0
+P869174;C012219;16/10/1959;65;60+a;M;Parda;Fundamental incompleto;Dona de casa;AM;Parintins;Urbana;Não;Hipertensão;Sim;5
+P987099;C577677;09/05/2013;11;5-11a;F;Parda;Sem instrução;Dona de casa;SP;Guarulhos;Urbana;Não;Hipertensão;Não;0
+P481827;C071030;08/03/1935;89;60+a;M;Preta;Médio completo;Empregado CLT;SP;Guarulhos;Urbana;Não;Nenhuma;Não;0
+P435627;C669068;26/12/1980;44;30-44a;I;Ignorado;Sem instrução;Aposentado;MT;Cuiabá;Urbana;Não;Diabetes;Não;0
+P287803;C158214;19/03/2019;5;5-11a;I;Indígena;Sem instrução;Autônomo;CE;Sobral;Rural;Não;Diabetes;Sim;1
+P905333;C272644;15/07/1971;53;45-59a;M;Parda;Ignorado;Autônomo;PA;Santarém;Periurbana;Não;Imunossupressão;Sim;7
+P111812;C124183;14/10/1996;28;18-29a;F;Ignorado;Superior completo;Dona de casa;PR;Londrina;Urbana;Sim;Imunossupressão;Sim;4
+P499679;C123806;17/11/2012;12;12-17a;I;Ignorado;Médio completo;Autônomo;BA;Feira de Santana;Urbana;Não;Nenhuma;Não;0
+P632299;C060736;05/04/1981;43;30-44a;F;Amarela;Médio completo;Estudante;ES;Cachoeiro;Urbana;Não;Nenhuma;Não;0
+P477979;C931945;25/08/1977;47;45-59a;F;Preta;Médio completo;Aposentado;GO;Anápolis;Periurbana;Não;Hipertensão;Não;0
+P335959;C993037;14/02/1976;48;45-59a;M;Indígena;Fundamental incompleto;Autônomo;PR;Cascavel;Urbana;Não;Hipertensão;Sim;3
+P908227;C511180;28/05/1974;50;45-59a;F;Ignorado;Fundamental completo;Dona de casa;AM;Manacapuru;Periurbana;Não;Nenhuma;Não;0
+P284464;C199067;14/03/1993;31;30-44a;M;Amarela;Superior completo;Servidor público;AM;Parintins;Urbana;Não;Hipertensão;Não;0
+P213928;C497286;03/02/2006;18;18-29a;F;Ignorado;Médio completo;Estudante;RS;Caxias do Sul;Urbana;Não;Obesidade;Sim;9
+P824454;C314196;28/03/1942;82;60+a;M;Branca;Ignorado;Dona de casa;MA;Imperatriz;Urbana;Não;Imunossupressão;Não;0
+P600181;C133691;03/09/1968;56;45-59a;M;Branca;Superior completo;Autônomo;SC;Joinville;Urbana;Não;Cardiopatia;Sim;9
+P116317;C176178;17/07/1997;27;18-29a;M;Parda;Fundamental completo;Empregado CLT;AM;Manaus;Urbana;Não;Obesidade;Não;0
+P674615;C603468;07/11/1940;84;60+a;M;Parda;Fundamental completo;Empregado CLT;AM;Itacoatiara;Urbana;Não;Nenhuma;Não;0
+P009016;C715183;17/02/1970;54;45-59a;F;Branca;Sem instrução;Aposentado;ES;Cariacica;Urbana;Não;Nenhuma;Não;0
+P597947;C697524;21/06/2012;12;12-17a;I;Parda;Fundamental completo;Aposentado;MG;Juiz de Fora;Urbana;Não;Diabetes;Não;0
+P956729;C398576;23/04/1998;26;18-29a;M;Ignorado;Ignorado;Servidor público;MG;Uberlândia;Urbana;Não;Nenhuma;Não;0
+P038678;C281037;13/01/1973;51;45-59a;M;Preta;Sem instrução;Servidor público;MG;Contagem;Urbana;Não;Cardiopatia;Sim;11
+P306234;C076284;08/06/1939;85;60+a;I;Preta;Médio completo;Estudante;SP;Sorocaba;Urbana;Não;Hipertensão;Não;0
+P963470;C593409;12/01/1964;60;60+a;F;Branca;Superior completo;Dona de casa;GO;Anápolis;Rural;Não;Hipertensão;Não;0
+P088019;C608416;15/06/1949;75;60+a;I;Parda;Fundamental completo;Estudante;AM;Parintins;Urbana;Não;Obesidade;Sim;3
+P521440;C671660;13/10/1969;55;45-59a;F;Preta;Ignorado;Desempregado;AM;Parintins;Periurbana;Não;Obesidade;Não;0
+P996963;C107319;18/11/1964;60;60+a;F;Ignorado;Ignorado;Servidor público;PA;Castanhal;Periurbana;Não;Cardiopatia;Sim;11
+P530382;C267200;04/04/2001;23;18-29a;M;Parda;Médio completo;Desempregado;MT;Rondonópolis;Rural;Não;Nenhuma;Não;0
+P980833;C608043;22/09/1985;39;30-44a;F;Ignorado;Fundamental incompleto;Aposentado;CE;Juazeiro do Norte;Urbana;Não;Hipertensão;Não;0
+P416616;C226571;19/05/1975;49;45-59a;F;Preta;Sem instrução;Empregado CLT;SP;Ribeirão Preto;Periurbana;Não;Nenhuma;Não;0
+P869655;C339442;07/11/1972;52;45-59a;F;Preta;Fundamental completo;Servidor público;MG;Juiz de Fora;Urbana;Não;Hipertensão;Sim;2
+P957278;C242882;09/12/1985;39;30-44a;M;Indígena;Ignorado;Servidor público;GO;Aparecida de Goiânia;Periurbana;Não;Hipertensão;Não;0
+P499657;C582210;19/01/1996;28;18-29a;F;Indígena;Médio completo;Empregado CLT;MG;Uberlândia;Urbana;Não;Nenhuma;Não;0
+P327438;C170035;25/08/2010;14;12-17a;M;Preta;Médio completo;Estudante;GO;Aparecida de Goiânia;Urbana;Não;Obesidade;Sim;9
+P817283;C337333;02/10/1996;28;18-29a;M;Ignorado;Médio completo;Estudante;GO;Luziânia;Periurbana;Não;Nenhuma;Não;0
+P163209;C502814;07/10/1951;73;60+a;M;Ignorado;Ignorado;Empregado CLT;CE;Fortaleza;Urbana;Não;Hipertensão;Não;0
+P024556;C838807;15/05/2000;24;18-29a;F;Ignorado;Fundamental completo;Dona de casa;SC;Joinville;Urbana;Não;Imunossupressão;Sim;2
+P942410;C231573;02/10/1976;48;45-59a;M;Branca;Fundamental incompleto;Empregado CLT;AM;Itacoatiara;Periurbana;Não;Nenhuma;Não;0
+P771196;C211492;11/07/1970;54;45-59a;M;Branca;Fundamental incompleto;Estudante;AM;Itacoatiara;Urbana;Não;Obesidade;Não;0
+P449081;C467380;15/08/1972;52;45-59a;M;Preta;Ignorado;Autônomo;ES;Serra;Urbana;Não;Nenhuma;Não;0
+P029705;C497879;24/04/2002;22;18-29a;I;Branca;Sem instrução;Aposentado;SP;São Paulo;Urbana;Não;Hipertensão;Não;0
+P928471;C966321;12/01/1987;37;30-44a;M;Indígena;Fundamental incompleto;Autônomo;MG;Uberlândia;Urbana;Não;Obesidade;Não;0
+P415913;C097335;08/09/1943;81;60+a;I;Ignorado;Fundamental completo;Desempregado;CE;Juazeiro do Norte;Urbana;Não;Obesidade;Sim;11
+P009145;C236496;07/11/1993;31;30-44a;F;Ignorado;Sem instrução;Aposentado;ES;Cariacica;Urbana;Não;Nenhuma;Não;0
+P562357;C811199;02/12/1987;37;30-44a;M;Ignorado;Fundamental completo;Empregado CLT;SC;São José;Urbana;Não;Nenhuma;Não;0
+P333856;C811768;01/03/2001;23;18-29a;F;Parda;Fundamental completo;Autônomo;PA;Marabá;Urbana;Não;Nenhuma;Não;0
+P320186;C353681;27/09/1985;39;30-44a;I;Ignorado;Médio completo;Aposentado;MA;São Luís;Urbana;Não;Obesidade;Não;0
+P532194;C713148;21/07/1974;50;45-59a;M;Preta;Superior completo;Estudante;AM;Parintins;Urbana;Não;Nenhuma;Não;0
+P209972;C137744;21/01/2007;17;12-17a;F;Amarela;Ignorado;Dona de casa;PR;Cascavel;Urbana;Não;Nenhuma;Não;0
+P066063;C172580;24/10/2002;22;18-29a;F;Indígena;Superior completo;Servidor público;MT;Sinop;Urbana;Não;Nenhuma;Sim;7
+P873268;C758559;03/11/2016;8;5-11a;M;Preta;Sem instrução;Estudante;GO;Aparecida de Goiânia;Periurbana;Não;Nenhuma;Não;0
+P978603;C559452;18/05/1983;41;30-44a;I;Preta;Superior completo;Autônomo;RJ;Petrópolis;Rural;Não;Nenhuma;Não;0
+P726119;C811060;24/07/1988;36;30-44a;F;Parda;Superior completo;Autônomo;MT;Sinop;Periurbana;Não;Nenhuma;Não;0
+P848469;C260161;16/12/1988;36;30-44a;I;Indígena;Sem instrução;Estudante;ES;Vitória;Urbana;Não;Nenhuma;Não;0
+P975138;C063125;01/07/1970;54;45-59a;M;Parda;Superior completo;Dona de casa;RS;Canoas;Urbana;Não;Nenhuma;Sim;6
+P560361;C442289;06/12/1954;70;60+a;F;Parda;Superior completo;Desempregado;RS;Pelotas;Rural;Não;Nenhuma;Não;0
+P997714;C259191;14/08/1997;27;18-29a;M;Ignorado;Superior completo;Servidor público;MT;Várzea Grande;Urbana;Não;Cardiopatia;Não;0
+P468539;C774840;04/03/1947;77;60+a;I;Branca;Médio completo;Servidor público;ES;Vila Velha;Urbana;Não;Diabetes;Sim;3
+P820169;C196355;21/01/2003;21;18-29a;I;Indígena;Ignorado;Empregado CLT;SC;Chapecó;Periurbana;Não;Nenhuma;Não;0
+P813393;C318503;16/11/1980;44;30-44a;M;Parda;Fundamental completo;Desempregado;GO;Anápolis;Periurbana;Não;Nenhuma;Não;0
+P042180;C247459;11/06/2004;20;18-29a;M;Branca;Médio completo;Desempregado;AM;Coari;Periurbana;Não;Hipertensão;Não;0
+P456822;C916534;01/09/2022;2;<5a;I;Parda;Fundamental completo;Servidor público;CE;Maracanaú;Rural;Não;Obesidade;Sim;11
+P250206;C653091;24/07/1998;26;18-29a;I;Branca;Fundamental incompleto;Aposentado;PA;Santarém;Urbana;Não;Nenhuma;Não;0
+P152570;C851604;10/07/1974;50;45-59a;I;Ignorado;Superior completo;Desempregado;MA;São Luís;Urbana;Não;Nenhuma;Sim;9
+P094300;C033618;27/05/1964;60;60+a;M;Indígena;Fundamental completo;Dona de casa;AM;Coari;Urbana;Não;Cardiopatia;Não;0
+P458945;C547014;04/05/1975;49;45-59a;I;Amarela;Ignorado;Servidor público;SP;Guarulhos;Urbana;Não;Hipertensão;Não;0
+P939150;C469598;14/04/1944;80;60+a;F;Preta;Fundamental incompleto;Autônomo;SP;São Paulo;Urbana;Não;Nenhuma;Sim;5
+P971810;C296272;11/02/2008;16;12-17a;F;Preta;Médio completo;Aposentado;CE;Caucaia;Urbana;Não;Imunossupressão;Não;0
+P082208;C927218;12/06/1937;87;60+a;I;Indígena;Sem instrução;Estudante;PA;Santarém;Urbana;Não;Diabetes;Não;0
+P194426;C765733;03/03/1940;84;60+a;M;Parda;Superior completo;Dona de casa;CE;Caucaia;Urbana;Não;Obesidade;Sim;11
+P330030;C803043;28/12/2007;17;12-17a;F;Amarela;Fundamental incompleto;Servidor público;MG;Contagem;Urbana;Não;Nenhuma;Não;0
+P157942;C860250;10/03/1979;45;45-59a;F;Parda;Sem instrução;Desempregado;MT;Várzea Grande;Urbana;Não;Hipertensão;Sim;8
+P045190;C744084;07/12/2016;8;5-11a;M;Preta;Ignorado;Estudante;CE;Fortaleza;Urbana;Não;Nenhuma;Não;0
+P328705;C836123;10/12/1968;56;45-59a;F;Branca;Ignorado;Aposentado;MG;Belo Horizonte;Rural;Não;Cardiopatia;Não;0
+P281623;C729055;26/10/2004;20;18-29a;F;Branca;Ignorado;Estudante;GO;Rio Verde;Urbana;Não;Nenhuma;Não;0
+P297175;C459122;11/09/1948;76;60+a;F;Indígena;Superior completo;Autônomo;SP;Ribeirão Preto;Periurbana;Não;Diabetes;Não;0
+P888373;C597801;12/10/1966;58;45-59a;F;Amarela;Ignorado;Desempregado;PR;Cascavel;Rural;Não;Nenhuma;Não;0
+P569400;C352998;22/11/1947;77;60+a;M;Preta;Fundamental incompleto;Aposentado;GO;Luziânia;Rural;Não;Nenhuma;Não;0
+P205345;C756980;17/07/1958;66;60+a;M;Preta;Superior completo;Estudante;PR;Londrina;Urbana;Não;Nenhuma;Não;0
+P531895;C270835;19/12/1940;84;60+a;M;Branca;Ignorado;Aposentado;GO;Luziânia;Urbana;Não;Nenhuma;Não;0
+P250958;C936317;22/03/2000;24;18-29a;F;Branca;Superior completo;Estudante;PR;Maringá;Periurbana;Sim;Nenhuma;Não;0
+P012449;C975271;23/09/2012;12;12-17a;M;Amarela;Sem instrução;Empregado CLT;PE;Paulista;Urbana;Não;Nenhuma;Não;0
+P003387;C906260;08/10/1973;51;45-59a;M;Preta;Médio completo;Servidor público;PA;Castanhal;Rural;Não;Cardiopatia;Sim;10
+P329668;C941015;06/10/1962;62;60+a;F;Ignorado;Médio completo;Aposentado;ES;Cachoeiro;Urbana;Não;Cardiopatia;Não;0
+P860866;C938386;17/03/1987;37;30-44a;M;Preta;Médio completo;Servidor público;PE;Caruaru;Urbana;Não;Imunossupressão;Não;0
+P901449;C516645;07/01/2009;15;12-17a;I;Indígena;Fundamental incompleto;Desempregado;SP;Guarulhos;Urbana;Não;Nenhuma;Não;0
+P468669;C951589;14/10/2022;2;<5a;I;Indígena;Médio completo;Servidor público;PR;Londrina;Urbana;Não;Nenhuma;Não;0
+P144809;C899778;28/02/1980;44;30-44a;M;Preta;Ignorado;Servidor público;SC;Blumenau;Urbana;Não;Cardiopatia;Não;0
+P246357;C224022;17/10/1998;26;18-29a;I;Branca;Superior completo;Estudante;ES;Serra;Periurbana;Não;Nenhuma;Não;0
+P337990;C882006;17/04/1980;44;30-44a;F;Amarela;Médio completo;Empregado CLT;RS;Porto Alegre;Urbana;Não;Nenhuma;Não;0
+P137860;C460617;02/01/2016;8;5-11a;F;Indígena;Médio completo;Estudante;BA;Vitória da Conquista;Periurbana;Não;Hipertensão;Sim;4
+P210421;C228624;24/03/1964;60;60+a;F;Branca;Superior completo;Servidor público;GO;Luziânia;Periurbana;Não;Hipertensão;Não;0
+P241361;C910572;13/05/2000;24;18-29a;I;Amarela;Ignorado;Empregado CLT;SP;São Paulo;Urbana;Não;Imunossupressão;Sim;7
+P430419;C507241;18/07/1999;25;18-29a;I;Branca;Ignorado;Aposentado;AM;Itacoatiara;Urbana;Não;Nenhuma;Sim;8
+P403118;C287241;18/04/2011;13;12-17a;F;Amarela;Sem instrução;Desempregado;MG;Belo Horizonte;Urbana;Não;Nenhuma;Não;0
+P912389;C130311;15/01/1964;60;60+a;F;Indígena;Fundamental completo;Servidor público;PA;Belém;Urbana;Não;Hipertensão;Sim;1
+P064632;C146635;10/05/1950;74;60+a;F;Ignorado;Fundamental incompleto;Autônomo;MG;Belo Horizonte;Urbana;Não;Obesidade;Não;0
+P163958;C148977;12/09/1950;74;60+a;M;Indígena;Médio completo;Autônomo;SC;Blumenau;Rural;Não;Imunossupressão;Sim;2
+P952407;C469910;14/11/1959;65;60+a;M;Preta;Superior completo;Servidor público;PA;Marabá;Periurbana;Não;Diabetes;Não;0
+P588939;C687922;02/05/1969;55;45-59a;M;Amarela;Fundamental completo;Aposentado;MG;Belo Horizonte;Urbana;Não;Imunossupressão;Não;0
+P170017;C491090;19/04/2009;15;12-17a;I;Parda;Fundamental incompleto;Estudante;PA;Ananindeua;Urbana;Não;Imunossupressão;Sim;7
+P456057;C502405;13/09/1954;70;60+a;M;Branca;Médio completo;Desempregado;SP;São Paulo;Urbana;Não;Hipertensão;Não;0
+P577763;C573999;16/11/2007;17;12-17a;M;Indígena;Médio completo;Aposentado;SC;Joinville;Urbana;Não;Obesidade;Não;0
+P108900;C836532;01/01/2019;5;5-11a;I;Indígena;Fundamental incompleto;Servidor público;CE;Caucaia;Periurbana;Não;Hipertensão;Não;0
+P324039;C625784;07/01/2005;19;18-29a;F;Parda;Ignorado;Estudante;PR;Maringá;Urbana;Não;Nenhuma;Sim;4
+P505965;C579181;21/05/2007;17;12-17a;M;Indígena;Fundamental completo;Desempregado;SP;Ribeirão Preto;Urbana;Não;Nenhuma;Não;0
+P941934;C006951;05/06/1936;88;60+a;F;Ignorado;Fundamental completo;Estudante;MA;Caxias;Periurbana;Não;Diabetes;Não;0
+P838062;C240121;06/11/2016;8;5-11a;F;Branca;Sem instrução;Estudante;RJ;Duque de Caxias;Urbana;Não;Cardiopatia;Não;0
+P162534;C472889;21/12/1952;72;60+a;F;Preta;Fundamental completo;Aposentado;ES;Vila Velha;Urbana;Não;Nenhuma;Não;0
+P280630;C476274;05/03/1941;83;60+a;F;Parda;Fundamental completo;Empregado CLT;RS;Pelotas;Urbana;Não;Imunossupressão;Não;0
+P316861;C403489;14/08/2014;10;5-11a;I;Ignorado;Médio completo;Empregado CLT;PA;Marabá;Urbana;Não;Nenhuma;Não;0
+P724010;C204983;14/08/1945;79;60+a;I;Indígena;Médio completo;Autônomo;BA;Salvador;Urbana;Não;Obesidade;Não;0
+P473110;C742733;26/05/1984;40;30-44a;M;Indígena;Fundamental incompleto;Estudante;MG;Uberlândia;Rural;Não;Hipertensão;Sim;12
+P741554;C062267;27/11/1988;36;30-44a;M;Indígena;Superior completo;Servidor público;MT;Rondonópolis;Urbana;Não;Nenhuma;Não;0
+P480889;C118362;09/09/1957;67;60+a;I;Ignorado;Fundamental incompleto;Empregado CLT;GO;Goiânia;Urbana;Não;Imunossupressão;Não;0
+P417839;C206148;20/05/2018;6;5-11a;I;Indígena;Superior completo;Estudante;RJ;Duque de Caxias;Urbana;Não;Imunossupressão;Sim;4
+P740875;C078781;07/01/2020;4;<5a;F;Preta;Ignorado;Dona de casa;RJ;Nova Iguaçu;Periurbana;Não;Obesidade;Não;0
+P833012;C425709;04/05/1960;64;60+a;I;Indígena;Superior completo;Dona de casa;PR;Curitiba;Rural;Não;Hipertensão;Não;0
+P491061;C691868;25/03/1964;60;60+a;F;Indígena;Ignorado;Aposentado;PA;Belém;Urbana;Não;Nenhuma;Não;0
+P519120;C757490;07/09/2009;15;12-17a;F;Parda;Ignorado;Autônomo;MA;Timon;Urbana;Não;Diabetes;Sim;7
+P096758;C260863;06/07/1997;27;18-29a;M;Amarela;Superior completo;Dona de casa;ES;Vila Velha;Urbana;Não;Nenhuma;Não;0
+P788830;C923996;24/12/1978;46;45-59a;M;Preta;Fundamental incompleto;Autônomo;ES;Cachoeiro;Urbana;Não;Nenhuma;Não;0
+P852097;C688321;28/09/1945;79;60+a;M;Preta;Sem instrução;Aposentado;GO;Goiânia;Rural;Não;Nenhuma;Não;0
+P698250;C388242;23/07/1954;70;60+a;F;Parda;Médio completo;Desempregado;GO;Anápolis;Periurbana;Não;Imunossupressão;Não;0
+P179930;C235532;16/06/2009;15;12-17a;M;Amarela;Ignorado;Estudante;PR;Ponta Grossa;Periurbana;Não;Cardiopatia;Sim;2
+P278327;C400140;13/12/1995;29;18-29a;M;Indígena;Médio completo;Estudante;MA;Imperatriz;Urbana;Não;Nenhuma;Não;0
+P432014;C885341;18/08/1941;83;60+a;M;Branca;Fundamental incompleto;Desempregado;CE;Juazeiro do Norte;Urbana;Não;Obesidade;Sim;2
+P153042;C063240;17/11/1974;50;45-59a;F;Ignorado;Fundamental incompleto;Autônomo;PE;Olinda;Urbana;Não;Nenhuma;Não;0
+P578646;C029536;14/08/1973;51;45-59a;M;Parda;Sem instrução;Dona de casa;GO;Luziânia;Urbana;Não;Cardiopatia;Não;0
+P579384;C201634;01/05/1994;30;30-44a;F;Ignorado;Médio completo;Desempregado;PR;Maringá;Periurbana;Não;Nenhuma;Não;0
+P582728;C487171;11/12/1961;63;60+a;F;Ignorado;Fundamental incompleto;Empregado CLT;RS;Canoas;Urbana;Não;Hipertensão;Sim;2
+P691171;C832845;27/02/2011;13;12-17a;F;Branca;Fundamental completo;Empregado CLT;MA;São Luís;Urbana;Não;Cardiopatia;Não;0
+P879970;C981340;07/01/1950;74;60+a;I;Amarela;Superior completo;Estudante;SC;São José;Urbana;Não;Nenhuma;Não;0
+P786921;C181932;26/04/2022;2;<5a;M;Branca;Médio completo;Empregado CLT;MA;Timon;Periurbana;Não;Imunossupressão;Não;0
+P730866;C936261;18/04/1969;55;45-59a;M;Ignorado;Fundamental incompleto;Servidor público;BA;Camaçari;Rural;Não;Diabetes;Sim;7
+P095414;C433185;19/03/2013;11;5-11a;M;Preta;Fundamental completo;Empregado CLT;MG;Montes Claros;Periurbana;Não;Imunossupressão;Sim;11
+P084844;C348156;21/12/1945;79;60+a;I;Branca;Superior completo;Servidor público;MA;Caxias;Urbana;Não;Cardiopatia;Sim;12
+P820250;C283120;25/03/2003;21;18-29a;M;Parda;Fundamental incompleto;Autônomo;AM;Manaus;Urbana;Não;Cardiopatia;Não;0
+P823378;C245556;26/11/1977;47;45-59a;F;Parda;Superior completo;Empregado CLT;SP;Campinas;Urbana;Não;Cardiopatia;Sim;10
+P057921;C922154;13/04/1987;37;30-44a;M;Preta;Superior completo;Aposentado;ES;Vila Velha;Urbana;Não;Imunossupressão;Sim;9
+P940452;C001720;05/10/1948;76;60+a;M;Parda;Médio completo;Autônomo;RS;Santa Maria;Periurbana;Não;Nenhuma;Não;0
+P037149;C418633;06/03/1949;75;60+a;F;Parda;Ignorado;Estudante;PR;Curitiba;Periurbana;Não;Obesidade;Sim;4
+P893101;C132300;01/04/1967;57;45-59a;M;Parda;Ignorado;Servidor público;CE;Fortaleza;Urbana;Não;Nenhuma;Não;0
+P494149;C378105;10/02/1943;81;60+a;M;Ignorado;Fundamental completo;Dona de casa;RJ;Petrópolis;Urbana;Não;Nenhuma;Não;0
+P043598;C759408;06/10/2010;14;12-17a;M;Branca;Fundamental incompleto;Autônomo;GO;Luziânia;Rural;Não;Hipertensão;Não;0
+P357758;C593471;14/05/1939;85;60+a;F;Parda;Sem instrução;Dona de casa;GO;Luziânia;Periurbana;Não;Nenhuma;Não;0
+P986337;C351801;22/03/1963;61;60+a;I;Parda;Fundamental completo;Dona de casa;BA;Camaçari;Rural;Não;Nenhuma;Não;0
+P108119;C051007;18/03/1967;57;45-59a;F;Amarela;Médio completo;Empregado CLT;MG;Contagem;Rural;Não;Diabetes;Não;0
+P310860;C207023;01/07/1972;52;45-59a;F;Parda;Superior completo;Desempregado;SP;Campinas;Urbana;Não;Cardiopatia;Sim;10
+P640546;C321648;03/08/1986;38;30-44a;M;Amarela;Médio completo;Servidor público;MG;Uberlândia;Urbana;Não;Diabetes;Sim;1
+P144412;C198716;17/12/1997;27;18-29a;F;Indígena;Fundamental completo;Autônomo;CE;Juazeiro do Norte;Urbana;Sim;Cardiopatia;Sim;3
+P174463;C398746;23/04/2007;17;12-17a;M;Preta;Superior completo;Autônomo;CE;Juazeiro do Norte;Urbana;Não;Imunossupressão;Sim;5
+P150086;C516015;26/07/1989;35;30-44a;M;Amarela;Fundamental completo;Autônomo;AM;Manaus;Urbana;Não;Obesidade;Sim;6
+P325918;C732815;09/04/2003;21;18-29a;F;Branca;Fundamental completo;Dona de casa;RJ;Duque de Caxias;Rural;Não;Cardiopatia;Não;0
+P903538;C491323;24/07/1958;66;60+a;F;Indígena;Superior completo;Estudante;MG;Uberlândia;Urbana;Não;Nenhuma;Não;0
+P867249;C524335;03/09/1963;61;60+a;F;Amarela;Ignorado;Servidor público;AM;Parintins;Urbana;Não;Imunossupressão;Sim;8
+P997326;C587591;28/07/1992;32;30-44a;F;Amarela;Ignorado;Empregado CLT;RS;Canoas;Periurbana;Não;Imunossupressão;Não;0
+P683224;C808222;10/09/2023;1;<5a;F;Amarela;Superior completo;Desempregado;SC;Florianópolis;Urbana;Não;Nenhuma;Não;0
+P479517;C484520;21/08/1974;50;45-59a;F;Branca;Superior completo;Aposentado;ES;Vitória;Periurbana;Não;Diabetes;Sim;7
+P042438;C668543;07/06/1969;55;45-59a;I;Ignorado;Fundamental completo;Servidor público;MT;Tangará da Serra;Urbana;Não;Cardiopatia;Não;0
+P142847;C086442;10/11/1939;85;60+a;I;Branca;Sem instrução;Aposentado;SC;Florianópolis;Urbana;Não;Nenhuma;Não;0
+P566551;C117977;26/04/1964;60;60+a;I;Parda;Médio completo;Estudante;AM;Manaus;Rural;Não;Nenhuma;Não;0
+P207566;C907939;27/07/1956;68;60+a;F;Indígena;Ignorado;Estudante;GO;Goiânia;Urbana;Não;Hipertensão;Sim;10
+P503513;C959255;14/10/1952;72;60+a;F;Preta;Ignorado;Servidor público;BA;Vitória da Conquista;Urbana;Não;Nenhuma;Não;0
+P480692;C218587;26/03/1935;89;60+a;M;Branca;Sem instrução;Aposentado;PR;Curitiba;Urbana;Não;Obesidade;Não;0
+P140499;C424006;28/03/1940;84;60+a;I;Branca;Superior completo;Dona de casa;RS;Santa Maria;Urbana;Não;Nenhuma;Não;0
+P788396;C015535;17/03/1973;51;45-59a;M;Ignorado;Ignorado;Aposentado;MA;Imperatriz;Urbana;Não;Imunossupressão;Não;0
+P831741;C558210;01/09/1971;53;45-59a;F;Parda;Médio completo;Empregado CLT;RJ;Rio de Janeiro;Urbana;Não;Nenhuma;Não;0
+P296880;C078911;26/06/1997;27;18-29a;I;Preta;Fundamental incompleto;Aposentado;BA;Vitória da Conquista;Periurbana;Não;Imunossupressão;Não;0
+P524890;C664172;08/03/2013;11;5-11a;F;Preta;Fundamental incompleto;Servidor público;SP;Ribeirão Preto;Urbana;Não;Cardiopatia;Sim;3
+P877202;C478851;23/04/1979;45;45-59a;F;Ignorado;Superior completo;Aposentado;SP;Guarulhos;Rural;Não;Nenhuma;Não;0
+P920447;C945155;23/05/1977;47;45-59a;F;Amarela;Ignorado;Empregado CLT;ES;Cachoeiro;Urbana;Não;Imunossupressão;Sim;4
+P513399;C541365;20/03/1992;32;30-44a;I;Indígena;Ignorado;Servidor público;GO;Goiânia;Urbana;Não;Imunossupressão;Sim;7

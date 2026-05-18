@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+
+# Dados processados (manter raw versionado conforme política do projeto)
+data/processed/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Streamlit
+.streamlit/secrets.toml
