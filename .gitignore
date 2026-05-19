@@ -6,9 +6,6 @@ __pycache__/
 venv/
 .env
 
-# Dados processados (manter raw versionado conforme política do projeto)
-data/processed/
-
 # IDE
 .idea/
 .vscode/
